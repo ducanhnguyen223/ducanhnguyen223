@@ -18,9 +18,8 @@ jobs:
 
       - uses: Platane/snk@v3
         with:
-          user: ducanhnguyen223
+          github_user_name: ducanhnguyen223
           output: .github/output/github-contribution-grid-snake.svg
-          github_token: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
