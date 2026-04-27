@@ -85,30 +85,10 @@
 
 ---
 
-## ���� Activity Graph
+## Activity Graph
 
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ducanhnguyen223&theme=github-compact&hide_border=true&area=true&bg_color=0D1117&color=4FC08D&line=4FC08D&point=FFFFFF)](https://github.com/ducanhnguyen223)
-
-</div>
-
----
-
-## 📫 Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-ducanhnguyen223-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ducanhnguyen223)
-[![Gmail](https://img.shields.io/badge/Gmail-ducanhtq88@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ducanhtq88@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ducanhnguyen223)
-
-<br/><br/>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=ducanhnguyen223&style=for-the-badge&color=4FC08D&label=Profile%20Views)
-
-<br/>
-
-*"First, solve the problem. Then, write the code." — John Johnson*
 
 </div>
