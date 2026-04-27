@@ -3,7 +3,7 @@
 ```
 ╔═══════════════════════════════════════════════════════════╗
 ║                                                           ║
-║   Hello World. I'm Anh Duc (Albert anhstein).             ║
+║   Hello World. I'm Anh Duc.                               ║
 ║   I build things for the web — and sometimes the cloud.   ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
@@ -14,47 +14,46 @@
 [![Role](https://img.shields.io/badge/Role-Full%20Stack%20Developer-blue?style=for-the-badge&logo=github)](https://github.com/ducanhnguyen223)
 [![Focus](https://img.shields.io/badge/Focus-Web%20%26%20Cloud-green?style=for-the-badge&logo=cloudflare)](https://github.com/ducanhnguyen223)
 [![Status](https://img.shields.io/badge/Available-success?style=for-the-badge&logo=checkmarx)](mailto:ducanhtq88@gmail.com)
+
 </div>
 
 ---
 
-## 👤 About Me
+## About Me
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>Basic Info</h3>
-      <p><strong>Name:</strong> Nguyen Anh Duc</p>
-      <p><strong>Role:</strong> BSc (Hons) Computing</p>
-      <p><strong>School:</strong> University of Greenwich — Vietnam Campus, HN</p>
-      <p><strong>Focus:</strong> Full-Stack Developer, Cloud Infrastructure, DevOps, UI/UX Designer</p>
-      <p><strong>Currently:</strong> Building cool stuff and breaking things on purpose</p>
-    </td>
-    <td valign="top" width="50%">
-      <h3>Quick Stats</h3>
-      <p>📍 Based in Ha Noi Capital, Vietnam</p>
-      <p>☁️ Ecosystem: AWS, Cloudflare, Docker</p>
-      <p>💻 Working with: Vue.js, Node.js, MongoDB, AWS, GCP, Cloudflare</p>
-      <p>📫 Email: ducanhtq88@gmail.com</p>
-    </td>
-  </tr>
-</table>
+- **Name:** Nguyen Anh Duc (Albert anhstein)
+- **Role:** BSc (Hons) Computing Student & Full-Stack Developer
+- **Education:** University of Greenwich — Vietnam Campus, Hanoi
+- **Location:** Ha Noi Capital, Vietnam
+- **Focus:** Full-Stack Web Development, Cloud Infrastructure, DevOps, UI/UX Design
+- **Currently:** Building cool stuff and breaking things on purpose
+- **Email:** ducanhtq88@gmail.com
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Technologies
 
-### Languages & Frameworks
+### Web Development
+- **Frontend:** Vue.js, React, HTML, CSS, JavaScript, TypeScript
+- **Backend:** Node.js, Express, REST API
+- **Database:** MongoDB, MySQL
+- **Build Tools:** Vite, TailwindCSS
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,html,css,vue,react,nodejs,express&perline=9)](https://skillicons.dev)
+### Cloud & Infrastructure
+- **AWS:** EC2, S3, Lambda
+- **GCP:** Cloud Platform
+- **Cloudflare:** CDN, WAF, DNS, SSL
 
-### Database & Cloud
+### DevOps & Tools
+- **Container:** Docker
+- **CI/CD:** GitHub Actions
+- **Tools:** Git, Linux, VSCode, Postman, Figma
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,aws,gcp,cloudflare,docker,linux,git,github&perline=9)](https://skillicons.dev)
+---
 
-### Tools
+### Core Technologies (Quick View)
 
-[![My Skills](https://skillicons.dev/icons?i=vite,tailwind,vscode,postman,figma&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,html,css,vue,react,nodejs,express,vite,tailwind,mongodb,mysql,aws,gcp,cloudflare,docker,linux,git,github,vscode,postman,figma&perline=9)](https://skillicons.dev)
 
 ---
 
