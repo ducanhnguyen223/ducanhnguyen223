@@ -21,13 +21,14 @@
 
 ## About Me
 
-- **Name:** Nguyen Anh Duc (Albert anhstein)
-- **Role:** BSc (Hons) Computing Student & Full-Stack Developer
-- **Education:** University of Greenwich — Vietnam Campus, Hanoi
-- **Location:** Ha Noi Capital, Vietnam
-- **Focus:** Full-Stack Web Development, Cloud Infrastructure, DevOps, UI/UX Design
-- **Currently:** Building cool stuff and breaking things on purpose
-- **Email:** ducanhtq88@gmail.com
+- 👤 **Name:** Nguyen Anh Duc (Albert anhstein)
+- 💼 **Role:** BSc (Hons) Computing Student & Full-Stack Developer
+- 🎓 **Education:** University of Greenwich — Vietnam Campus, Hanoi
+- 📍 **Location:** Ha Noi Capital, Vietnam
+- 🎯 **Focus:** Full-Stack Web Development, Cloud Infrastructure, DevOps, UI/UX Design
+- ☁️ **Ecosystem:** AWS, Cloudflare, Docker
+- 🔭 **Currently:** Building cool stuff and breaking things on purpose
+- 📫 **Email:** ducanhtq88@gmail.com
 
 ---
 
