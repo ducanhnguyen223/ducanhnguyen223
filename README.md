@@ -26,14 +26,14 @@
     <td valign="top" width="50%">
       <h3>Basic Info</h3>
       <p><strong>Name:</strong> Nguyen Anh Duc</p>
-      <p><strong>Role:</strong> Computer Science Student & Developer</p>
-      <p><strong>School:</strong> University of Greenwich — Vietnam Campus, HCMC</p>
-      <p><strong>Focus:</strong> Full-Stack Web, Cloud Infrastructure, DevOps</p>
+      <p><strong>Role:</strong> BSc (Hons) Computing</p>
+      <p><strong>School:</strong> University of Greenwich — Vietnam Campus, HN</p>
+      <p><strong>Focus:</strong> Full-Stack Developer, Cloud Infrastructure, DevOps, UI/UX Designer</p>
       <p><strong>Currently:</strong> Building cool stuff and breaking things on purpose</p>
     </td>
     <td valign="top" width="50%">
       <h3>Quick Stats</h3>
-      <p>📍 Based in Ho Chi Minh City, Vietnam</p>
+      <p>📍 Based in Ha Noi Capital, Vietnam</p>
       <p>🎓 Computer Science Student</p>
       <p>💻 Working with: Vue.js, Node.js, MongoDB, AWS, GCP, Cloudflare</p>
       <p>📫 Email: ducanhtq88@gmail.com</p>
