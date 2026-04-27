@@ -13,8 +13,7 @@
 
 [![Role](https://img.shields.io/badge/Role-Full%20Stack%20Developer-blue?style=for-the-badge&logo=github)](https://github.com/ducanhnguyen223)
 [![Focus](https://img.shields.io/badge/Focus-Web%20%26%20Cloud-green?style=for-the-badge&logo=cloudflare)](https://github.com/ducanhnguyen223)
-[![Status](https://img.shields.io/badge/Status-Available%20for%20Hire-success?style=for-the-badge&logo=checkmarx)](mailto:ducanhtq88@gmail.com)
-
+[![Status](https://img.shields.io/badge/Available-success?style=for-the-badge&logo=checkmarx)](mailto:ducanhtq88@gmail.com)
 </div>
 
 ---
