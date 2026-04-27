@@ -98,6 +98,6 @@
 
 <div align="center">
 
-![Snake](https://raw.githubusercontent.com/ducanhnguyen223/anhducnguyen223/main/.github/output/github-contribution-grid-snake.svg)
+![Snake](https://raw.githubusercontent.com/ducanhnguyen223/ducanhnguyen223/main/.github/output/github-contribution-grid-snake.svg)
 
 </div>
