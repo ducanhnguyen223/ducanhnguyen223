@@ -34,7 +34,7 @@
     <td valign="top" width="50%">
       <h3>Quick Stats</h3>
       <p>📍 Based in Ha Noi Capital, Vietnam</p>
-      <p>🎓 Computer Science Student</p>
+      <p>☁️ Ecosystem: AWS, Cloudflare, Docker</p>
       <p>💻 Working with: Vue.js, Node.js, MongoDB, AWS, GCP, Cloudflare</p>
       <p>📫 Email: ducanhtq88@gmail.com</p>
     </td>
