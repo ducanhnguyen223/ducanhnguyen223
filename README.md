@@ -21,7 +21,7 @@
 
 ## About Me
 
-- 👤 **Name:** Nguyen Anh Duc (Albert anhstein)
+- 👤 **Name:** Nguyen Duc Anh (Albert anhstein)
 - 💼 **Role:** BSc (Hons) Computing Student & Full-Stack Developer
 - 🎓 **Education:** University of Greenwich — Vietnam Campus, Hanoi
 - 📍 **Location:** Ha Noi Capital, Vietnam
