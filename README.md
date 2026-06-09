@@ -32,7 +32,13 @@
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stack
+
+<div align="center">
+
+[![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?cardWidth=400&theme=github_dark&lineCount=3&bg_color=0D1117&border=30363D&titleColor=58A6FF&textColor=C9D1D9)](https://github.com/0l1v3rr/github-readme-tech-stack)
+
+</div>
 
 ### Web Development
 - **Frontend:** Vue.js, React, HTML, CSS, JavaScript, TypeScript
@@ -62,20 +68,38 @@
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
-<a href="https://github.com/ducanhnguyen223">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ducanhnguyen223&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-</a>
-&nbsp;&nbsp;
-<!-- Top Languages Card -->
-<a href="https://github.com/ducanhnguyen223">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducanhnguyen223&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-</a>
+<!-- Stats Card -->
+[![Stats](https://github-readme-stats.vercel.app/api?username=ducanhnguyen223&show_icons=true&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)](https://github.com/ducanhnguyen223)
 
-<br/><br/>
+<!-- Top Languages -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ducanhnguyen223&layout=compact&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9)](https://github.com/ducanhnguyen223)
 
 <!-- Streak Stats -->
-<img width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=ducanhnguyen223&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FF6B6B&ring=4FC08D&currStreakLabel=4FC08D" />
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ducanhnguyen223&theme=github-dark&background=0D1117&border=30363D&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9)](https://github.com/ducanhnguyen223)
+
+<!-- Activity Graph -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ducanhnguyen223&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF)](https://github.com/ducanhnguyen223)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!-- Snake Animation -->
+[![Snake Animation](https://raw.githubusercontent.com/ducanhnguyen223/ducanhnguyen223/output/github-contribution-grid-snake-dark.svg)](https://github.com/ducanhnguyen223)
+
+</div>
+
+---
+
+## 🏆 GitHub Profile Trophy
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ducanhnguyen223&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
