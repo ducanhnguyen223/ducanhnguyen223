@@ -63,9 +63,6 @@
 <!-- Stats Card -->
 [![Stats](https://github-readme-stats.vercel.app/api?username=ducanhnguyen223&show_icons=true&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)](https://github.com/ducanhnguyen223)
 
-<!-- Top Languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ducanhnguyen223&layout=compact&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9)](https://github.com/ducanhnguyen223)
-
 <!-- Streak Stats -->
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ducanhnguyen223&theme=github-dark&background=0D1117&border=30363D&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9)](https://github.com/ducanhnguyen223)
 
