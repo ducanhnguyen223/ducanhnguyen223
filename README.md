@@ -34,11 +34,9 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+### Core Technologies
 
-[![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?cardWidth=400&theme=github_dark&lineCount=3&bg_color=0D1117&border=30363D&titleColor=58A6FF&textColor=C9D1D9)](https://github.com/0l1v3rr/github-readme-tech-stack)
-
-</div>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,html,css,vue,react,nodejs,express,vite,tailwind,mongodb,mysql,aws,gcp,cloudflare,docker,linux,git,github,vscode,postman,figma&perline=9)](https://skillicons.dev)
 
 ### Web Development
 - **Frontend:** Vue.js, React, HTML, CSS, JavaScript, TypeScript
@@ -55,12 +53,6 @@
 - **Container:** Docker
 - **CI/CD:** GitHub Actions
 - **Tools:** Git, Linux, VSCode, Postman, Figma
-
----
-
-### Core Technologies (Quick View)
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,html,css,vue,react,nodejs,express,vite,tailwind,mongodb,mysql,aws,gcp,cloudflare,docker,linux,git,github,vscode,postman,figma&perline=9)](https://skillicons.dev)
 
 ---
 
