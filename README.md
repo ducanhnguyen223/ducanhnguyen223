@@ -89,16 +89,6 @@
 
 ---
 
-## 🏆 GitHub Profile Trophy
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ducanhnguyen223&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## Activity Graph
 
 <div align="center">
