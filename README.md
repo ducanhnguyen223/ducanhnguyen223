@@ -66,9 +66,6 @@
 <!-- Streak Stats -->
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ducanhnguyen223&theme=github-dark&background=0D1117&border=30363D&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9)](https://github.com/ducanhnguyen223)
 
-<!-- Activity Graph -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ducanhnguyen223&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF)](https://github.com/ducanhnguyen223)
-
 </div>
 
 ---
@@ -89,15 +86,5 @@
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ducanhnguyen223&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## Activity Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ducanhnguyen223&theme=github-compact&hide_border=true&area=true&bg_color=0D1117&color=4FC08D&line=4FC08D&point=FFFFFF)](https://github.com/ducanhnguyen223)
 
 </div>
