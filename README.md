@@ -58,26 +58,23 @@
 
 ---
 
-## 🏆 GitHub Profile Trophy
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ducanhnguyen223&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ducanhnguyen223&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" />
+<!-- GitHub Stats Card -->
+<a href="https://github.com/ducanhnguyen223">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ducanhnguyen223&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+</a>
 &nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducanhnguyen223&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<!-- Top Languages Card -->
+<a href="https://github.com/ducanhnguyen223">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducanhnguyen223&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+</a>
 
 <br/><br/>
 
+<!-- Streak Stats -->
 <img width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=ducanhnguyen223&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FF6B6B&ring=4FC08D&currStreakLabel=4FC08D" />
 
 </div>
