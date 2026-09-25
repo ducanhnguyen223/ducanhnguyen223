@@ -1,4 +1,43 @@
-![Albert anhstein — AI Engineer. STEIN: applied intelligence.](assets/stein-header.svg)
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/stein-header-mobile.svg">
+  <img src="assets/stein-header.svg" width="100%" alt="Albert anhstein — AI Engineer. LLM applications connecting business context, useful tools and decisions people can review.">
+</picture>
+
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/stein-engineering-mobile.svg">
+  <img src="assets/stein-engineering.svg" width="100%" alt="Engineering: LLM applications, retrieval, agent tooling and reliability.">
+</picture>
+
+<a href="https://github.com/ducanhnguyen223/opsdesk">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/stein-opsdesk-mobile.svg">
+    <img src="assets/stein-opsdesk.svg" width="100%" alt="OpsDesk — AI assistance for shipment exceptions. Explore the public repository.">
+  </picture>
+</a>
+
+<a href="https://github.com/ducanhnguyen223/llm-reliability-bench">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/stein-bench-mobile.svg">
+    <img src="assets/stein-bench.svg" width="100%" alt="LLM Reliability &amp; Cache Bench — offline evaluation of cache reuse when context changes. Explore the public repository.">
+  </picture>
+</a>
+
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/stein-vanban-mobile.svg">
+  <img src="assets/stein-vanban.svg" width="100%" alt="VanBanAI — Vietnamese document workflows with retrieval, drafting, review and export. Private, in development.">
+</picture>
+
+<a href="mailto:ducanhtq88@gmail.com">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/stein-contact-mobile.svg">
+    <img src="assets/stein-contact.svg" width="100%" alt="Tools: Python, TypeScript, FastAPI, Node.js, SQL, MCP, Docker and GitHub Actions. Contact: ducanhtq88@gmail.com.">
+  </picture>
+</a>
+
+<details>
+<summary>Read the profile as text · project links &amp; contact</summary>
+
+# Albert anhstein / AI Engineer
 
 I build **LLM applications** that connect business context, useful tools and decisions people can review.
 
@@ -57,3 +96,5 @@ The model works with structured facts and source references; review and export f
 ## Contact
 
 [Email ↗](mailto:ducanhtq88@gmail.com) · [Explore my repositories ↗](https://github.com/ducanhnguyen223?tab=repositories)
+
+</details>
