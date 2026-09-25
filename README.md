@@ -1,51 +1,59 @@
-# Albert anhstein.
+![Albert anhstein — AI Engineer. STEIN: applied intelligence.](assets/stein-header.svg)
 
-**AI Engineer · Applied AI / LLM systems**
+I build **LLM applications** that connect business context, useful tools and decisions people can review.
 
-I build AI workflows that connect language models to useful context, tools and reviewable actions.
+[Engineering](#engineering) · [Selected work](#selected-work) · [Contact](#contact)
 
-<div align="center">
+## Engineering
 
-<img src="assets/stein-portal.gif" alt="STEIN portfolio: a white and blue AI systems interface opens into a red decode view of an OpsDesk case file." width="100%">
+- **LLM applications** — model APIs, structured outputs and document workflows.
+- **Retrieval** — RAG, source citations and hybrid retrieval experiments.
+- **Agent tooling** — MCP, scoped tools and approval workflows.
+- **Reliability** — evaluation, failure cases and cache invalidation.
 
-</div>
-
-## Engineering focus
-
-| LLM applications | Retrieval and knowledge |
-| --- | --- |
-| Model APIs · structured outputs · workflow design | RAG · BM25 · hybrid retrieval experiments · source citations |
-
-| Agent tooling | Reliability and evaluation |
-| --- | --- |
-| MCP · scoped tools · human approval | Cache correctness · stale context · reproducible failure cases |
-
-## Selected systems
+## Selected work
 
 ### [OpsDesk ↗](https://github.com/ducanhnguyen223/opsdesk)
 
-An AI-assisted workflow for shipment exceptions. It brings affected orders and relevant procedures together so an operations specialist can review a proposed internal action. The scenario data is simulated.
+AI assistance for shipment exceptions. Brings order facts and relevant procedures together so an operations specialist can review the next action.
 
-`Python` · `FastAPI` · `MCP` · `SQLite`
+<details>
+<summary>Inside OpsDesk</summary>
+
+Scoped retrieval, source citations and human approval before creating an internal ticket. Built around simulated operations data.
+
+**Stack:** Python · FastAPI · SQLite · MCP
+
+</details>
 
 ### [LLM Reliability & Cache Bench ↗](https://github.com/ducanhnguyen223/llm-reliability-bench)
 
-An offline toolkit for exploring when a cached model answer becomes unsafe after its source data, access rules or policy changes.
+An offline evaluation toolkit for deciding when a cached LLM answer can still be reused after its context changes.
 
-`Python` · `LLM evaluation` · `cache invalidation`
+<details>
+<summary>Inside the evaluation toolkit</summary>
 
-### VanBanAI · In development
+Reproducible scenarios for changes in source data, permissions and policy. Explores cache correctness and the limits of semantic similarity.
 
-A private project exploring Vietnamese document workflows with retrieval, structured drafting, review and Word/PDF export. Legal-source validation and release work are ongoing.
+**Focus:** Python · LLM evaluation · cache invalidation
 
-## How I approach a workflow
+</details>
 
-**Understand the decision → retrieve scoped context → validate the output → keep consequential actions reviewable.**
+### VanBanAI
 
-## Toolchain
+Vietnamese document workflows combining retrieval, structured drafting, review and Word/PDF export. **Private · in development.**
 
-`Python` · `TypeScript` · `FastAPI` · `Node.js` · `SQL` · `MCP` · `Docker` · `GitHub Actions`
+<details>
+<summary>Inside the document workflow</summary>
+
+The model works with structured facts and source references; review and export form separate steps. Legal-source validation and release work are ongoing.
+
+</details>
+
+## Tools I work with
+
+`Python` `TypeScript` `FastAPI` `Node.js` `SQL` `MCP` `Docker` `GitHub Actions`
 
 ## Contact
 
-[ducanhtq88@gmail.com](mailto:ducanhtq88@gmail.com) · [Repositories](https://github.com/ducanhnguyen223?tab=repositories)
+[Email ↗](mailto:ducanhtq88@gmail.com) · [Explore my repositories ↗](https://github.com/ducanhnguyen223?tab=repositories)
