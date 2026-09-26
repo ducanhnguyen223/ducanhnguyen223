@@ -1,6 +1,6 @@
 <picture>
   <source media="(max-width: 600px)" srcset="assets/stein-console-mobile.svg">
-  <img src="assets/stein-console.svg" width="100%" alt="Albert anhstein — AI Engineer. 15 public repos, 227 commits, 8 pull requests and 275 contributions. Snapshot 2026-09-26.">
+  <img src="assets/stein-console.svg" width="100%" alt="Soukyu — AI Engineer. 15 public repos, 227 commits, 8 pull requests and 275 contributions. Snapshot 2026-09-26.">
 </picture>
 
 <picture>
@@ -37,7 +37,7 @@
 <details>
 <summary>Profile as text · evidence & links</summary>
 
-## Albert anhstein / AI Engineer
+## Soukyu / AI Engineer
 
 I build LLM applications around business context, tools and human review.
 
