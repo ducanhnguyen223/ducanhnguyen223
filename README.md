@@ -8,11 +8,6 @@
   <img src="assets/soukyu-activity.svg" width="100%" alt="GitHub activity and language shares. Snapshot 2026-09-26. Public language bytes, excluding forks, not skill ratings.">
 </picture>
 
-<picture>
-  <source media="(max-width: 600px)" srcset="assets/soukyu-records-mobile.svg">
-  <img src="assets/soukyu-records.svg" width="100%" alt="Web Programming 1 subject award, Aptis B2; GitHub badges Quickdraw, Pull Shark and YOLO.">
-</picture>
-
 <a href="https://github.com/ducanhnguyen223/opsdesk">
 <picture>
   <source media="(max-width: 600px)" srcset="assets/soukyu-opsdesk-mobile.svg">
@@ -46,8 +41,6 @@ I build LLM applications around business context, tools and human review.
 **Stack:** Python · TypeScript · Node.js · FastAPI · PostgreSQL · SQLite · Docker · GitHub Actions · Git · Linux.
 
 **GitHub snapshot 2026-09-26:** 15 public repos; 227 commits, 8 pull requests, 1 PR reviews and 275 total contributions in the preceding year. Stats are a dated snapshot, not live counters. Language shares use bytes from public owned repos, excluding forks and this profile; they are not proficiency scores.
-
-**Credentials:** Best Student of Subjects — Web Programming 1, Summer 2025; Aptis ESOL B2, British Council, December 2024. These are separate from the GitHub activity badges Quickdraw, Pull Shark and YOLO.
 
 ### [OpsDesk](https://github.com/ducanhnguyen223/opsdesk)
 
