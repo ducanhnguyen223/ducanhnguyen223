@@ -1,100 +1,72 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/stein-header-mobile.svg">
-  <img src="assets/stein-header.svg" width="100%" alt="Albert anhstein — AI Engineer. LLM applications connecting business context, useful tools and decisions people can review.">
+  <source media="(max-width: 600px)" srcset="assets/stein-console-mobile.svg">
+  <img src="assets/stein-console.svg" width="100%" alt="Albert anhstein — AI Engineer. 15 public repos, 227 commits, 8 pull requests and 275 contributions. Snapshot 2026-09-26.">
 </picture>
 
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/stein-engineering-mobile.svg">
-  <img src="assets/stein-engineering.svg" width="100%" alt="Engineering: LLM applications, retrieval, agent tooling and reliability.">
+  <source media="(max-width: 600px)" srcset="assets/stein-activity-mobile.svg">
+  <img src="assets/stein-activity.svg" width="100%" alt="GitHub activity and language shares. Snapshot 2026-09-26. Public language bytes, excluding forks, not skill ratings.">
+</picture>
+
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/stein-records-mobile.svg">
+  <img src="assets/stein-records.svg" width="100%" alt="Web Programming 1 subject award, Aptis B2; GitHub badges Quickdraw, Pull Shark and YOLO.">
 </picture>
 
 <a href="https://github.com/ducanhnguyen223/opsdesk">
-  <picture>
-    <source media="(max-width: 600px)" srcset="assets/stein-opsdesk-mobile.svg">
-    <img src="assets/stein-opsdesk.svg" width="100%" alt="OpsDesk — AI assistance for shipment exceptions. Explore the public repository.">
-  </picture>
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/stein-opsdesk-mobile.svg">
+  <img src="assets/stein-opsdesk.svg" width="100%" alt="OpsDesk: Turns shipment exceptions into sourced next actions an operator can review. PUBLIC / DEMO. Open repository.">
+</picture>
 </a>
 
 <a href="https://github.com/ducanhnguyen223/llm-reliability-bench">
-  <picture>
-    <source media="(max-width: 600px)" srcset="assets/stein-bench-mobile.svg">
-    <img src="assets/stein-bench.svg" width="100%" alt="LLM Reliability &amp; Cache Bench — offline evaluation of cache reuse when context changes. Explore the public repository.">
-  </picture>
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/stein-bench-mobile.svg">
+  <img src="assets/stein-bench.svg" width="100%" alt="LLM Reliability &amp; Cache Bench: Tests whether a cached answer is still safe after its context or permissions change. PUBLIC / OFFLINE. Open repository.">
+</picture>
 </a>
 
 <picture>
   <source media="(max-width: 600px)" srcset="assets/stein-vanban-mobile.svg">
-  <img src="assets/stein-vanban.svg" width="100%" alt="VanBanAI — Vietnamese document workflows with retrieval, drafting, review and export. Private, in development.">
+  <img src="assets/stein-vanban.svg" width="100%" alt="VanBanAI: Brings source retrieval, structured drafting and Word/PDF export into one review flow. Private, in development.">
 </picture>
 
-<a href="mailto:ducanhtq88@gmail.com">
-  <picture>
-    <source media="(max-width: 600px)" srcset="assets/stein-contact-mobile.svg">
-    <img src="assets/stein-contact.svg" width="100%" alt="Tools: Python, TypeScript, FastAPI, Node.js, SQL, MCP, Docker and GitHub Actions. Contact: ducanhtq88@gmail.com.">
-  </picture>
-</a>
+<p align="center"><a href="mailto:ducanhtq88@gmail.com">GET IN TOUCH ↗</a> · <a href="https://github.com/ducanhnguyen223?tab=repositories">EXPLORE REPOSITORIES ↗</a></p>
 
 <details>
-<summary>Read the profile as text · project links &amp; contact</summary>
+<summary>Profile as text · evidence & links</summary>
 
-# Albert anhstein / AI Engineer
+## Albert anhstein / AI Engineer
 
-I build **LLM applications** that connect business context, useful tools and decisions people can review.
+I build LLM applications around business context, tools and human review.
 
-[Engineering](#engineering) · [Selected work](#selected-work) · [Contact](#contact)
+**Focus:** RAG and retrieval, structured outputs, MCP and scoped tools, evaluation and caching.
 
-## Engineering
+**Stack:** Python · TypeScript · Node.js · FastAPI · PostgreSQL · SQLite · Docker · GitHub Actions · Git · Linux.
 
-- **LLM applications** — model APIs, structured outputs and document workflows.
-- **Retrieval** — RAG, source citations and hybrid retrieval experiments.
-- **Agent tooling** — MCP, scoped tools and approval workflows.
-- **Reliability** — evaluation, failure cases and cache invalidation.
+**GitHub snapshot 2026-09-26:** 15 public repos; 227 commits, 8 pull requests, 1 PR reviews and 275 total contributions in the preceding year. Stats are a dated snapshot, not live counters. Language shares use bytes from public owned repos, excluding forks and this profile; they are not proficiency scores.
 
-## Selected work
+**Credentials:** Best Student of Subjects — Web Programming 1, Summer 2025; Aptis ESOL B2, British Council, December 2024. These are separate from the GitHub activity badges Quickdraw, Pull Shark and YOLO.
 
-### [OpsDesk ↗](https://github.com/ducanhnguyen223/opsdesk)
+### [OpsDesk](https://github.com/ducanhnguyen223/opsdesk)
 
-AI assistance for shipment exceptions. Brings order facts and relevant procedures together so an operations specialist can review the next action.
+Turns shipment exceptions into sourced next actions an operator can review.
 
-<details>
-<summary>Inside OpsDesk</summary>
+Python · FastAPI · SQLite · MCP. Simulated operations · scoped access · human approval.
 
-Scoped retrieval, source citations and human approval before creating an internal ticket. Built around simulated operations data.
+### [LLM Reliability & Cache Bench](https://github.com/ducanhnguyen223/llm-reliability-bench)
 
-**Stack:** Python · FastAPI · SQLite · MCP
+Tests whether a cached answer is still safe after its context or permissions change.
 
-</details>
-
-### [LLM Reliability & Cache Bench ↗](https://github.com/ducanhnguyen223/llm-reliability-bench)
-
-An offline evaluation toolkit for deciding when a cached LLM answer can still be reused after its context changes.
-
-<details>
-<summary>Inside the evaluation toolkit</summary>
-
-Reproducible scenarios for changes in source data, permissions and policy. Explores cache correctness and the limits of semantic similarity.
-
-**Focus:** Python · LLM evaluation · cache invalidation
-
-</details>
+Python · Evaluation · Cache invalidation. Reproducible cases · exact / semantic / dependency-aware.
 
 ### VanBanAI
 
-Vietnamese document workflows combining retrieval, structured drafting, review and Word/PDF export. **Private · in development.**
+Brings source retrieval, structured drafting and Word/PDF export into one review flow.
 
-<details>
-<summary>Inside the document workflow</summary>
+TypeScript · Node.js · Zod · RAG. In development · legal-source validation remains ongoing.
 
-The model works with structured facts and source references; review and export form separate steps. Legal-source validation and release work are ongoing.
-
-</details>
-
-## Tools I work with
-
-`Python` `TypeScript` `FastAPI` `Node.js` `SQL` `MCP` `Docker` `GitHub Actions`
-
-## Contact
-
-[Email ↗](mailto:ducanhtq88@gmail.com) · [Explore my repositories ↗](https://github.com/ducanhnguyen223?tab=repositories)
+[Email](mailto:ducanhtq88@gmail.com) · [Repositories](https://github.com/ducanhnguyen223?tab=repositories)
 
 </details>
