@@ -1,35 +1,35 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/stein-console-mobile.svg">
-  <img src="assets/stein-console.svg" width="100%" alt="Soukyu — AI Engineer. 15 public repos, 227 commits, 8 pull requests and 275 contributions. Snapshot 2026-09-26.">
+  <source media="(max-width: 600px)" srcset="assets/soukyu-console-mobile.svg">
+  <img src="assets/soukyu-console.svg" width="100%" alt="Soukyu — AI Engineer. 15 public repos, 227 commits, 8 pull requests and 275 contributions. Snapshot 2026-09-26.">
 </picture>
 
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/stein-activity-mobile.svg">
-  <img src="assets/stein-activity.svg" width="100%" alt="GitHub activity and language shares. Snapshot 2026-09-26. Public language bytes, excluding forks, not skill ratings.">
+  <source media="(max-width: 600px)" srcset="assets/soukyu-activity-mobile.svg">
+  <img src="assets/soukyu-activity.svg" width="100%" alt="GitHub activity and language shares. Snapshot 2026-09-26. Public language bytes, excluding forks, not skill ratings.">
 </picture>
 
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/stein-records-mobile.svg">
-  <img src="assets/stein-records.svg" width="100%" alt="Web Programming 1 subject award, Aptis B2; GitHub badges Quickdraw, Pull Shark and YOLO.">
+  <source media="(max-width: 600px)" srcset="assets/soukyu-records-mobile.svg">
+  <img src="assets/soukyu-records.svg" width="100%" alt="Web Programming 1 subject award, Aptis B2; GitHub badges Quickdraw, Pull Shark and YOLO.">
 </picture>
 
 <a href="https://github.com/ducanhnguyen223/opsdesk">
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/stein-opsdesk-mobile.svg">
-  <img src="assets/stein-opsdesk.svg" width="100%" alt="OpsDesk: Turns shipment exceptions into sourced next actions an operator can review. PUBLIC / DEMO. Open repository.">
+  <source media="(max-width: 600px)" srcset="assets/soukyu-opsdesk-mobile.svg">
+  <img src="assets/soukyu-opsdesk.svg" width="100%" alt="OpsDesk: Turns shipment exceptions into sourced next actions an operator can review. PUBLIC / DEMO. Open repository.">
 </picture>
 </a>
 
 <a href="https://github.com/ducanhnguyen223/llm-reliability-bench">
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/stein-bench-mobile.svg">
-  <img src="assets/stein-bench.svg" width="100%" alt="LLM Reliability &amp; Cache Bench: Tests whether a cached answer is still safe after its context or permissions change. PUBLIC / OFFLINE. Open repository.">
+  <source media="(max-width: 600px)" srcset="assets/soukyu-bench-mobile.svg">
+  <img src="assets/soukyu-bench.svg" width="100%" alt="LLM Reliability &amp; Cache Bench: Tests whether a cached answer is still safe after its context or permissions change. PUBLIC / OFFLINE. Open repository.">
 </picture>
 </a>
 
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/stein-vanban-mobile.svg">
-  <img src="assets/stein-vanban.svg" width="100%" alt="VanBanAI: Brings source retrieval, structured drafting and Word/PDF export into one review flow. Private, in development.">
+  <source media="(max-width: 600px)" srcset="assets/soukyu-vanban-mobile.svg">
+  <img src="assets/soukyu-vanban.svg" width="100%" alt="VanBanAI: Brings source retrieval, structured drafting and Word/PDF export into one review flow. Private, in development.">
 </picture>
 
 <p align="center"><a href="mailto:ducanhtq88@gmail.com">GET IN TOUCH ↗</a> · <a href="https://github.com/ducanhnguyen223?tab=repositories">EXPLORE REPOSITORIES ↗</a></p>
