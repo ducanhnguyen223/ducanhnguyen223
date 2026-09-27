@@ -1,6 +1,6 @@
 <picture>
   <source media="(max-width: 600px)" srcset="assets/soukyu-console-mobile.svg">
-  <img src="assets/soukyu-console.svg" width="100%" alt="Soukyu — AI Engineer. 20 public repos, 239 commits, 24 pull requests and 309 contributions. Snapshot 2026-09-27.">
+  <img src="assets/soukyu-console.svg" width="100%" alt="Soukyu — AI Engineer. 20 public repos, 239 commits, 27 pull requests and 312 contributions. Snapshot 2026-09-27.">
 </picture>
 
 <picture>
@@ -46,7 +46,7 @@ I build LLM applications around business context, tools and human review.
 
 **Technical discussions:** [Haystack #12969](https://github.com/deepset-ai/haystack/discussions/12969#discussioncomment-18623580) proposes a fail-closed context-budget guard for RAG; [Jev RAG #5](https://github.com/aifabrice/jev-rag/issues/5#issuecomment-5855272663) proposes an opt-in OCR adapter with page-aware citations and explicit privacy boundaries. Both are proposals awaiting maintainer feedback.
 
-**GitHub snapshot 2026-09-27:** 20 public repos; 239 commits, 24 pull requests, 1 review and 309 total contributions in the preceding year. Stats are a dated snapshot, not live counters. Language shares use bytes from public owned repos, excluding forks and this profile; they are not proficiency scores.
+**GitHub snapshot 2026-09-27:** 20 public repos; 239 commits, 27 pull requests, 1 review and 312 total contributions in the preceding year. Stats are a dated snapshot, not live counters. Language shares use bytes from public owned repos, excluding forks and this profile; they are not proficiency scores.
 
 ### [OpsDesk](https://github.com/ducanhnguyen223/opsdesk)
 
