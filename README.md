@@ -44,7 +44,7 @@ I build LLM applications around business context, tools and human review.
 
 **Open-source work in review:** [Jev RAG #9](https://github.com/aifabrice/jev-rag/pull/9) adds Windows CLI smoke coverage; [Hugging Face Hub #5015](https://github.com/huggingface/huggingface_hub/pull/5015) adds a Vietnamese documentation slice; [Tokenizers #2462](https://github.com/huggingface/tokenizers/pull/2462) fixes a ByteLevel prefix-marker regression. These are open PRs, not merged claims.
 
-**Technical discussions:** [Haystack #12969](https://github.com/deepset-ai/haystack/discussions/12969#discussioncomment-18623580) proposes a fail-closed context-budget guard for RAG; [Jev RAG #5](https://github.com/aifabrice/jev-rag/issues/5#issuecomment-5855272663) proposes an opt-in OCR adapter with page-aware citations and explicit privacy boundaries. Both are proposals awaiting maintainer feedback.
+**Technical discussions:** [Haystack #12969](https://github.com/deepset-ai/haystack/discussions/12969#discussioncomment-18623580) proposes a fail-closed context-budget guard for RAG; [Jev RAG #5](https://github.com/aifabrice/jev-rag/issues/5#issuecomment-5855272663) proposes an opt-in OCR adapter with page-aware citations and explicit privacy boundaries; [mcp-memory-service #1345](https://github.com/doobidoo/mcp-memory-service/issues/1345#issuecomment-5855848041) reviews idempotent event-log sync and embedding consistency. These are proposals awaiting maintainer feedback.
 
 **GitHub snapshot 2026-09-27:** 20 public repos; 239 commits, 27 pull requests, 1 review and 312 total contributions in the preceding year. Stats are a dated snapshot, not live counters. Language shares use bytes from public owned repos, excluding forks and this profile; they are not proficiency scores.
 
