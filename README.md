@@ -1,11 +1,11 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/soukyu-console-mobile-clear-first-loop.gif">
-  <img src="assets/soukyu-console-clear-first-loop.gif" width="100%" alt="Soukyu — AI Engineer. 17 public repos, 230 commits, 15 pull requests and 288 contributions. Snapshot 2026-09-27.">
+  <source media="(max-width: 600px)" srcset="assets/soukyu-console-mobile-stats-20260927-0714.gif">
+  <img src="assets/soukyu-console-stats-20260927-0714.gif" width="100%" alt="Soukyu — AI Engineer. 18 public repos, 235 commits, 20 pull requests and 299 contributions. Snapshot captured 2026-09-27 07:14 UTC.">
 </picture>
 
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/soukyu-activity-mobile-clear-first-loop.gif">
-  <img src="assets/soukyu-activity-clear-first-loop.gif" width="100%" alt="GitHub activity and language shares. Snapshot 2026-09-27. Public language bytes, excluding forks, not skill ratings.">
+  <source media="(max-width: 600px)" srcset="assets/soukyu-activity-mobile-stats-20260927-0714.gif">
+  <img src="assets/soukyu-activity-stats-20260927-0714.gif" width="100%" alt="GitHub activity and language shares. Snapshot captured 2026-09-27 07:14 UTC. Public language bytes, excluding forks, not skill ratings.">
 </picture>
 
 <a href="https://github.com/ducanhnguyen223/opsdesk">
@@ -40,7 +40,7 @@ I build LLM applications around business context, tools and human review.
 
 **Stack:** Python · TypeScript · Node.js · FastAPI · PostgreSQL · SQLite · Docker · GitHub Actions · Git · Linux.
 
-**GitHub snapshot 2026-09-27:** 17 public repos; 230 commits, 15 pull requests, 1 review and 288 total contributions in the preceding year. Stats are a dated snapshot, not live counters. Language shares use bytes from public owned repos, excluding forks and this profile; they are not proficiency scores.
+**GitHub snapshot captured 2026-09-27 07:14 UTC:** 18 public repos; 235 commits, 20 pull requests, 1 review and 299 total contributions in the preceding 12 months. Stats are a dated snapshot, not live counters. Language shares use bytes from public owned repos, excluding forks and this profile; they are not proficiency scores.
 
 ### [OpsDesk](https://github.com/ducanhnguyen223/opsdesk)
 
