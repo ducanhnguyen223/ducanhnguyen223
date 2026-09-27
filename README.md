@@ -48,6 +48,8 @@ Turns shipment exceptions into sourced next actions an operator can review.
 
 Python · FastAPI · SQLite · MCP. Simulated operations · scoped access · human approval.
 
+The separate Agent Gym prototype checks evidence-grounded tool-use proposals against synthetic cases, including policy citations, tenant scope and forbidden-action attempts. It is offline and does not claim live-model quality. [Implementation and limits](https://github.com/ducanhnguyen223/opsdesk/blob/main/docs/AGENT_GYM.md).
+
 ### [LLM Reliability & Cache Bench](https://github.com/ducanhnguyen223/llm-reliability-bench)
 
 Tests whether a cached answer is still safe after its context or permissions change.
