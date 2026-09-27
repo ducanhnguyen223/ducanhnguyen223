@@ -1,6 +1,6 @@
 <picture>
   <source media="(max-width: 600px)" srcset="assets/soukyu-console-mobile.svg">
-  <img src="assets/soukyu-console.svg" width="100%" alt="Soukyu — AI Engineer. 19 public repos, 239 commits, 23 pull requests and 307 contributions. Snapshot 2026-09-27.">
+  <img src="assets/soukyu-console.svg" width="100%" alt="Soukyu — AI Engineer. 20 public repos, 239 commits, 24 pull requests and 309 contributions. Snapshot 2026-09-27.">
 </picture>
 
 <picture>
@@ -44,7 +44,7 @@ I build LLM applications around business context, tools and human review.
 
 **Open-source work in review:** [Jev RAG #9](https://github.com/aifabrice/jev-rag/pull/9) adds Windows CLI smoke coverage; [Hugging Face Hub #5015](https://github.com/huggingface/huggingface_hub/pull/5015) adds a Vietnamese documentation slice; [Tokenizers #2462](https://github.com/huggingface/tokenizers/pull/2462) fixes a ByteLevel prefix-marker regression. These are open PRs, not merged claims.
 
-**GitHub snapshot 2026-09-27:** 19 public repos; 239 commits, 23 pull requests, 1 review and 307 total contributions in the preceding year. Stats are a dated snapshot, not live counters. Language shares use bytes from public owned repos, excluding forks and this profile; they are not proficiency scores.
+**GitHub snapshot 2026-09-27:** 20 public repos; 239 commits, 24 pull requests, 1 review and 309 total contributions in the preceding year. Stats are a dated snapshot, not live counters. Language shares use bytes from public owned repos, excluding forks and this profile; they are not proficiency scores.
 
 ### [OpsDesk](https://github.com/ducanhnguyen223/opsdesk)
 
