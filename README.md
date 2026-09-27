@@ -1,30 +1,30 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/soukyu-console-mobile.svg">
-  <img src="assets/soukyu-console.svg" width="100%" alt="Soukyu — AI Engineer. 16 public repos, 227 commits, 12 pull requests and 281 contributions. Snapshot 2026-09-26.">
+  <source media="(max-width: 600px)" srcset="assets/soukyu-console-mobile.gif">
+  <img src="assets/soukyu-console.gif" width="100%" alt="Soukyu — AI Engineer. 16 public repos, 227 commits, 12 pull requests and 281 contributions. Snapshot 2026-09-26.">
 </picture>
 
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/soukyu-activity-mobile.svg">
-  <img src="assets/soukyu-activity.svg" width="100%" alt="GitHub activity and language shares. Snapshot 2026-09-26. Public language bytes, excluding forks, not skill ratings.">
+  <source media="(max-width: 600px)" srcset="assets/soukyu-activity-mobile.gif">
+  <img src="assets/soukyu-activity.gif" width="100%" alt="GitHub activity and language shares. Snapshot 2026-09-26. Public language bytes, excluding forks, not skill ratings.">
 </picture>
 
 <a href="https://github.com/ducanhnguyen223/opsdesk">
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/soukyu-opsdesk-mobile.svg">
-  <img src="assets/soukyu-opsdesk.svg" width="100%" alt="OpsDesk: Turns shipment exceptions into sourced next actions an operator can review. PUBLIC / DEMO. Open repository.">
+  <source media="(max-width: 600px)" srcset="assets/soukyu-opsdesk-mobile.gif">
+  <img src="assets/soukyu-opsdesk.gif" width="100%" alt="OpsDesk: Turns shipment exceptions into sourced next actions an operator can review. PUBLIC / DEMO. Open repository.">
 </picture>
 </a>
 
 <a href="https://github.com/ducanhnguyen223/llm-reliability-bench">
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/soukyu-bench-mobile.svg">
-  <img src="assets/soukyu-bench.svg" width="100%" alt="LLM Reliability &amp; Cache Bench: Tests whether a cached answer is still safe after its context or permissions change. PUBLIC / OFFLINE. Open repository.">
+  <source media="(max-width: 600px)" srcset="assets/soukyu-bench-mobile.gif">
+  <img src="assets/soukyu-bench.gif" width="100%" alt="LLM Reliability &amp; Cache Bench: Tests whether a cached answer is still safe after its context or permissions change. PUBLIC / OFFLINE. Open repository.">
 </picture>
 </a>
 
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/soukyu-vanban-mobile.svg">
-  <img src="assets/soukyu-vanban.svg" width="100%" alt="VanBanAI: Brings source retrieval, structured drafting and Word/PDF export into one review flow. Private, in development.">
+  <source media="(max-width: 600px)" srcset="assets/soukyu-vanban-mobile.gif">
+  <img src="assets/soukyu-vanban.gif" width="100%" alt="VanBanAI: Brings source retrieval, structured drafting and Word/PDF export into one review flow. Private, in development.">
 </picture>
 
 <p align="center"><a href="mailto:ducanhtq88@gmail.com">GET IN TOUCH ↗</a> · <a href="https://github.com/ducanhnguyen223?tab=repositories">EXPLORE REPOSITORIES ↗</a></p>
