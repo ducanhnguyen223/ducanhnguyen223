@@ -1,11 +1,11 @@
 <picture>
   <source media="(max-width: 600px)" srcset="assets/soukyu-console-mobile.gif">
-  <img src="assets/soukyu-console.gif" width="100%" alt="Soukyu — AI Engineer. 16 public repos, 227 commits, 12 pull requests and 281 contributions. Snapshot 2026-09-26.">
+  <img src="assets/soukyu-console.gif" width="100%" alt="Soukyu — AI Engineer. 17 public repos, 230 commits, 15 pull requests and 288 contributions. Snapshot 2026-09-27.">
 </picture>
 
 <picture>
   <source media="(max-width: 600px)" srcset="assets/soukyu-activity-mobile.gif">
-  <img src="assets/soukyu-activity.gif" width="100%" alt="GitHub activity and language shares. Snapshot 2026-09-26. Public language bytes, excluding forks, not skill ratings.">
+  <img src="assets/soukyu-activity.gif" width="100%" alt="GitHub activity and language shares. Snapshot 2026-09-27. Public language bytes, excluding forks, not skill ratings.">
 </picture>
 
 <a href="https://github.com/ducanhnguyen223/opsdesk">
@@ -40,7 +40,7 @@ I build LLM applications around business context, tools and human review.
 
 **Stack:** Python · TypeScript · Node.js · FastAPI · PostgreSQL · SQLite · Docker · GitHub Actions · Git · Linux.
 
-**GitHub snapshot 2026-09-26:** 16 public repos; 227 commits, 12 pull requests, 1 review and 281 total contributions in the preceding year. Stats are a dated snapshot, not live counters. Language shares use bytes from public owned repos, excluding forks and this profile; they are not proficiency scores.
+**GitHub snapshot 2026-09-27:** 17 public repos; 230 commits, 15 pull requests, 1 review and 288 total contributions in the preceding year. Stats are a dated snapshot, not live counters. Language shares use bytes from public owned repos, excluding forks and this profile; they are not proficiency scores.
 
 ### [OpsDesk](https://github.com/ducanhnguyen223/opsdesk)
 
