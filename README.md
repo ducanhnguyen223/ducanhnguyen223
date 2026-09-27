@@ -1,30 +1,30 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/soukyu-console-mobile-stats-20260927-0714.gif">
-  <img src="assets/soukyu-console-stats-20260927-0714.gif" width="100%" alt="Soukyu — AI Engineer. 18 public repos, 235 commits, 20 pull requests and 299 contributions. Snapshot captured 2026-09-27 07:14 UTC.">
+  <source media="(max-width: 600px)" srcset="assets/soukyu-console-mobile.svg">
+  <img src="assets/soukyu-console.svg" width="100%" alt="Soukyu — AI Engineer. 18 public repos, 239 commits, 23 pull requests and 306 contributions. Snapshot 2026-09-27.">
 </picture>
 
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/soukyu-activity-mobile-stats-20260927-0714.gif">
-  <img src="assets/soukyu-activity-stats-20260927-0714.gif" width="100%" alt="GitHub activity and language shares. Snapshot captured 2026-09-27 07:14 UTC. Public language bytes, excluding forks, not skill ratings.">
+  <source media="(max-width: 600px)" srcset="assets/soukyu-activity-mobile.svg">
+  <img src="assets/soukyu-activity.svg" width="100%" alt="GitHub activity and language shares. Snapshot 2026-09-27. Public language bytes, excluding forks, not skill ratings.">
 </picture>
 
 <a href="https://github.com/ducanhnguyen223/opsdesk">
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/soukyu-opsdesk-mobile-clear-first-loop.gif">
-  <img src="assets/soukyu-opsdesk-clear-first-loop.gif" width="100%" alt="OpsDesk: Turns shipment exceptions into sourced next actions an operator can review. PUBLIC / DEMO. Open repository.">
+  <source media="(max-width: 600px)" srcset="assets/soukyu-opsdesk-mobile.svg">
+  <img src="assets/soukyu-opsdesk.svg" width="100%" alt="OpsDesk: Turns shipment exceptions into sourced next actions an operator can review. PUBLIC / DEMO. Open repository.">
 </picture>
 </a>
 
 <a href="https://github.com/ducanhnguyen223/llm-reliability-bench">
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/soukyu-bench-mobile-clear-first-loop.gif">
-  <img src="assets/soukyu-bench-clear-first-loop.gif" width="100%" alt="LLM Reliability &amp; Cache Bench: Tests whether a cached answer is still safe after its context or permissions change. PUBLIC / OFFLINE. Open repository.">
+  <source media="(max-width: 600px)" srcset="assets/soukyu-bench-mobile.svg">
+  <img src="assets/soukyu-bench.svg" width="100%" alt="LLM Reliability &amp; Cache Bench: Tests whether a cached answer is still safe after its context or permissions change. PUBLIC / OFFLINE. Open repository.">
 </picture>
 </a>
 
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/soukyu-vanban-mobile-clear-first-loop.gif">
-  <img src="assets/soukyu-vanban-clear-first-loop.gif" width="100%" alt="VanBanAI: Brings source retrieval, structured drafting and Word/PDF export into one review flow. Private, in development.">
+  <source media="(max-width: 600px)" srcset="assets/soukyu-vanban-mobile.svg">
+  <img src="assets/soukyu-vanban.svg" width="100%" alt="VanBanAI: Brings source retrieval, structured drafting and Word/PDF export into one review flow. Private, in development.">
 </picture>
 
 <p align="center"><a href="mailto:ducanhtq88@gmail.com">GET IN TOUCH ↗</a> · <a href="https://github.com/ducanhnguyen223?tab=repositories">EXPLORE REPOSITORIES ↗</a></p>
@@ -40,7 +40,7 @@ I build LLM applications around business context, tools and human review.
 
 **Stack:** Python · TypeScript · Node.js · FastAPI · PostgreSQL · SQLite · Docker · GitHub Actions · Git · Linux.
 
-**GitHub snapshot captured 2026-09-27 07:14 UTC:** 18 public repos; 235 commits, 20 pull requests, 1 review and 299 total contributions in the preceding 12 months. Stats are a dated snapshot, not live counters. Language shares use bytes from public owned repos, excluding forks and this profile; they are not proficiency scores.
+**GitHub snapshot 2026-09-27:** 18 public repos; 239 commits, 23 pull requests, 1 review and 306 total contributions in the preceding year. Stats are a dated snapshot, not live counters. Language shares use bytes from public owned repos, excluding forks and this profile; they are not proficiency scores.
 
 ### [OpsDesk](https://github.com/ducanhnguyen223/opsdesk)
 
