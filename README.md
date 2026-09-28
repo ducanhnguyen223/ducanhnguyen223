@@ -1,6 +1,6 @@
 <picture>
   <source media="(max-width: 600px)" srcset="assets/soukyu-console-mobile.svg">
-  <img src="assets/soukyu-console.svg" width="100%" alt="Soukyu — AI Engineer. 26 public repos, 241 commits, 35 pull requests and 329 contributions. Snapshot 2026-09-29.">
+  <img src="assets/soukyu-console.svg" width="100%" alt="Soukyu — AI Engineer. 27 public repos including this profile, 241 commits, 35 pull requests and 330 contributions. Snapshot 2026-09-28 UTC.">
 </picture>
 
 <picture>
@@ -48,7 +48,7 @@ I build LLM applications around business context, tools and human review.
 
 **Technical discussions:** [Haystack #12969](https://github.com/deepset-ai/haystack/discussions/12969#discussioncomment-18623580) proposes a fail-closed context-budget guard for RAG; [Jev RAG #5](https://github.com/aifabrice/jev-rag/issues/5#issuecomment-5855272663) proposes an opt-in OCR adapter with page-aware citations and explicit privacy boundaries; [mcp-memory-service #1345](https://github.com/doobidoo/mcp-memory-service/issues/1345#issuecomment-5855848041) proposes idempotent event-log sync and embedding-consistency invariants that the maintainer incorporated into RFC v0.3 (design-only). Only the Jev RAG proposal is still awaiting maintainer feedback.
 
-**GitHub snapshot 2026-09-29:** 26 public repos; 241 commits, 35 pull requests, 2 reviews, 1 issue and 329 total contributions in the preceding year. Stats are a dated snapshot, not live counters. Language shares use bytes from public owned repos, excluding forks and this profile; they are not proficiency scores.
+**GitHub snapshot 2026-09-28 UTC:** 27 public repos including this profile; 241 commits, 35 pull requests, 2 reviews, 1 issue and 330 total contributions in the preceding year. Stats are a dated snapshot, not live counters. Language shares use bytes from public owned repos, excluding forks and this profile; they are not proficiency scores.
 
 ### [OpsDesk](https://github.com/ducanhnguyen223/opsdesk)
 
