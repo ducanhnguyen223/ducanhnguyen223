@@ -1,6 +1,6 @@
 <picture>
   <source media="(max-width: 600px)" srcset="assets/soukyu-console-mobile.svg">
-  <img src="assets/soukyu-console.svg" width="100%" alt="Soukyu — AI Engineer. 28 public repos including this profile, 241 commits, 37 pull requests and 333 contributions. Snapshot 2026-09-28 UTC.">
+  <img src="assets/soukyu-console.svg" width="100%" alt="Soukyu — AI Engineer. 29 public repos including this profile, 242 commits, 38 pull requests and 338 contributions. Snapshot 2026-09-29 UTC.">
 </picture>
 
 <picture>
@@ -48,7 +48,7 @@ I build LLM applications around business context, tools and human review.
 
 **Technical discussions:** [Haystack #12969](https://github.com/deepset-ai/haystack/discussions/12969#discussioncomment-18623580) proposes a fail-closed context-budget guard for RAG; [Jev RAG #5](https://github.com/aifabrice/jev-rag/issues/5#issuecomment-5855272663) proposes an opt-in OCR adapter with page-aware citations and explicit privacy boundaries; [mcp-memory-service #1345](https://github.com/doobidoo/mcp-memory-service/issues/1345#issuecomment-5855848041) proposes idempotent event-log sync and embedding-consistency invariants. A project collaborator confirmed the invariants were incorporated into RFC v0.3 (design-only); the linked discussions and issue are proposals, not merged implementations.
 
-**GitHub snapshot 2026-09-28 UTC:** 28 public repos including this profile; 241 commits, 37 pull requests, 2 reviews, 1 issue and 333 total contributions in the preceding year. Stats are a dated snapshot, not live counters. Language shares use bytes from public owned repos, excluding forks and this profile; they are not proficiency scores.
+**GitHub snapshot 2026-09-29 UTC:** 29 public repos including this profile; 242 commits, 38 pull requests, 2 reviews, 1 issue and 338 total contributions in the preceding year, verified against GitHub's public profile API and contribution collection. These are dated counters, not live values. The separate activity/language panel is a 2026-09-28 snapshot; language shares use bytes from public owned repos, excluding forks and this profile, and are not proficiency scores.
 
 ### [OpsDesk](https://github.com/ducanhnguyen223/opsdesk)
 
