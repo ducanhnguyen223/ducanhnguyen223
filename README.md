@@ -1,6 +1,6 @@
 <picture>
   <source media="(max-width: 600px)" srcset="assets/soukyu-console-mobile.svg">
-  <img src="assets/soukyu-console.svg" width="100%" alt="Soukyu — AI Engineer. 29 public repos including this profile, 243 commits, 42 pull requests and 343 contributions. Snapshot 2026-09-29 16:25 UTC.">
+  <img src="assets/soukyu-console.svg" width="100%" alt="Soukyu — AI Engineer. 29 public repos including this profile, 249 commits, 46 pull requests and 354 contributions. Snapshot 2026-09-30 02:51 UTC.">
 </picture>
 
 <picture>
@@ -50,7 +50,7 @@ The #92 validation also surfaced an invalid mypy override; the separate [CDR #95
 
 **Technical discussions:** [Haystack #12969](https://github.com/deepset-ai/haystack/discussions/12969#discussioncomment-18623580) proposes a fail-closed context-budget guard for RAG; [Jev RAG #5](https://github.com/aifabrice/jev-rag/issues/5#issuecomment-5855272663) proposes an opt-in OCR adapter with page-aware citations and explicit privacy boundaries; [mcp-memory-service #1345](https://github.com/doobidoo/mcp-memory-service/issues/1345#issuecomment-5855848041) proposes idempotent event-log sync and embedding-consistency invariants. RFC author `filhocf` confirmed the invariants were incorporated into the [v0.3 draft](https://github.com/filhocf/mcp-memory-service/blob/doc/rfc-delta-sync-invariants/docs/rfc/rfc-delta-sync.md) (design-only); the linked discussions and issue are proposals, not merged implementations.
 
-**GitHub snapshot 2026-09-29 16:25 UTC:** 29 public repos including this profile; 243 commits, 42 pull requests, 2 reviews, 1 issue and 343 total contributions in the 365 days ending at the snapshot time, verified against GitHub's public profile and contribution collection. These are dated counters, not live values. The separate activity/language panel is a 2026-09-28 snapshot; language shares use bytes from public owned repos, excluding forks and this profile, and are not proficiency scores.
+**GitHub snapshot 2026-09-30 02:51 UTC:** 29 public repos including this profile; 249 commits, 46 pull requests, 2 reviews, 2 issues and 354 total contributions in the 365 days ending at the snapshot time, verified against GitHub's public profile and contribution collection. These are dated counters, not live values. The separate activity/language panel is a 2026-09-28 snapshot; language shares use bytes from public owned repos, excluding forks and this profile, and are not proficiency scores.
 
 ### [OpsDesk](https://github.com/ducanhnguyen223/opsdesk)
 
