@@ -42,19 +42,30 @@ I build LLM applications around business context, tools and human review.
 
 **Evidence tooling:** [GitHub Profile Audit](https://github.com/ducanhnguyen223/github-profile-audit) — read-only checks for public repository and profile-README consistency, with tests and CI.
 
-**Selected open upstream PRs (checked 2026-10-03 UTC; none are merged claims):** [LlamaIndex #23299](https://github.com/run-llama/llama_index/pull/23299) validates non-positive workflow iteration budgets; [NanoCoder #1528](https://github.com/Nano-Collective/nanocoder/pull/1528) makes an LLM-summary fallback visible; [Pydantic AI #8955](https://github.com/pydantic/pydantic-ai/pull/8955) clarifies agent persistence and sandbox docs; [Clinical Deep Research #91](https://github.com/BlueRingsLabs/Clinical-Deep-Research_CDR/pull/91) uses structured logs, surfaces run IDs and failed checks at appropriate levels, and adds a regression assertion; [Chroma #7848](https://github.com/chroma-core/chroma/pull/7848) clarifies embedding-dimension mismatch guidance without assuming the cause; [Jev RAG #9](https://github.com/aifabrice/jev-rag/pull/9) adds Windows CLI smoke coverage (maintainer changes requested). These are selected open submissions, not merged contributions.
+**Selected open upstream work, checked 2026-10-06 UTC** — status is shown so open work is not mistaken for merged contributions.
+
+| Project / PR | Focus | Live status |
+| --- | --- | --- |
+| [LlamaIndex #23299](https://github.com/run-llama/llama_index/pull/23299) | Reject non-positive workflow iteration budgets | Open · review required · no checks reported |
+| [NanoCoder #1528](https://github.com/Nano-Collective/nanocoder/pull/1528) | Disclose when LLM summarization falls back | Open · checks passing · review required |
+| [Pydantic AI #8955](https://github.com/pydantic/pydantic-ai/pull/8955) | Clarify harness snapshots and sandbox examples | Open · checks passing · Macroscope bot approval; not merged |
+| [Clinical Deep Research #91](https://github.com/BlueRingsLabs/Clinical-Deep-Research_CDR/pull/91) | Structured logs, run IDs, failure levels and regression coverage | Open · 7/7 checks passing · review required |
+| [Chroma #7848](https://github.com/chroma-core/chroma/pull/7848) | Explain embedding-dimension mismatch without assuming its cause | Open · reviewer comment says “Approving at `f1159af`”; formal review decision is blank and no code-test check is reported |
+| [Jev RAG #9](https://github.com/aifabrice/jev-rag/pull/9) | Add Windows CLI smoke coverage | Open · changes requested · no checks reported |
 
 Haystack [#12986](https://github.com/deepset-ai/haystack/pull/12986) is not listed as open: the maintainer closed it without merge on 2026-10-01 because it duplicated #13009.
 
 **Merged upstream:** [mcp-memory-service #1334](https://github.com/doobidoo/mcp-memory-service/pull/1334), [#1343](https://github.com/doobidoo/mcp-memory-service/pull/1343) and [#1344](https://github.com/doobidoo/mcp-memory-service/pull/1344), all merged into `main` with maintainer merge commits; [Clinical Deep Research #90](https://github.com/BlueRingsLabs/Clinical-Deep-Research_CDR/pull/90) adds offline regression coverage for long ClinicalTrials.gov query sanitization, [#92](https://github.com/BlueRingsLabs/Clinical-Deep-Research_CDR/pull/92) aligns critique output with the current schema, and [#118](https://github.com/BlueRingsLabs/Clinical-Deep-Research_CDR/pull/118) uses the `SpanStatus.ERROR` enum for Risk of Bias 2 error spans (all merged 2026-09-30 UTC).
 
+**Review contributions adopted upstream:** In [mcp-memory-service #1449](https://github.com/doobidoo/mcp-memory-service/pull/1449), I flagged that prior search queries could reach the LLM provider and response snapshot; the author added allow-listed fields and regression coverage, and the maintainer merged it. In [Semantic Kernel #14532](https://github.com/microsoft/semantic-kernel/pull/14532), the author adopted my feedback on URL-only `ImageContent` and inferred MIME types in commits `7a5b3eb` and `727e1a7`, with regression tests. Both are review contributions, not code I authored; #14532 remains open, review-required and behind its base, with only label and CLA checks reported.
+
 The #92 validation also surfaced an invalid mypy override; the separate [CDR #95](https://github.com/BlueRingsLabs/Clinical-Deep-Research_CDR/pull/95) fix corrected it and credits the report from #92.
 
 **Technical discussions:** [Haystack #12969](https://github.com/deepset-ai/haystack/discussions/12969#discussioncomment-18623580) proposes a fail-closed context-budget guard for RAG; [Jev RAG #5](https://github.com/aifabrice/jev-rag/issues/5#issuecomment-5855272663) proposes an opt-in OCR adapter with page-aware citations and explicit privacy boundaries; [mcp-memory-service #1345](https://github.com/doobidoo/mcp-memory-service/issues/1345#issuecomment-5855848041) proposes idempotent event-log sync and embedding-consistency invariants. RFC author `filhocf` confirmed the invariants were incorporated into the [v0.3 draft](https://github.com/filhocf/mcp-memory-service/blob/doc/rfc-delta-sync-invariants/docs/rfc/rfc-delta-sync.md) (design-only). These discussions are proposals, not merged implementations.
 
-**Latest GitHub snapshot (GraphQL, 2026-10-03 19:25 UTC):** 31 public repos including this profile; 251 commit contributions, 46 pull-request contributions, 2 reviews, 2 issues and 359 total contributions in the trailing year. These are GitHub activity counters, not a count of merged PRs or a skills score.
+**Latest GitHub snapshot (GraphQL, 2026-10-06 UTC):** 32 public repositories including this profile; 373 contributions in the trailing year, including 252 commits, 51 pull-request contributions, 8 reviews and 2 issues. These are GitHub activity counters, not a count of merged PRs or a skills score.
 
-The console artwork above is a separately dated 2026-09-30 snapshot (30 public repos, 249 commits, 46 pull requests and 355 contributions); the activity/language panel is a 2026-09-28 snapshot. Language shares use bytes from public owned repos, excluding forks and this profile, and are not proficiency scores.
+The console artwork above is a historical 2026-09-30 snapshot (30 public repos, 249 commits, 46 pull requests and 355 contributions); the activity/language panel is a 2026-09-28 snapshot. They are dated separately from the latest GraphQL totals. Language shares use bytes from public owned repos, excluding forks and this profile, and are not proficiency scores.
 
 ### [OpsDesk](https://github.com/ducanhnguyen223/opsdesk)
 
