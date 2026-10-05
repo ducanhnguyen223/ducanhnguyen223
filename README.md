@@ -1,6 +1,6 @@
 <picture>
   <source media="(max-width: 600px)" srcset="assets/soukyu-console-mobile.svg">
-  <img src="assets/soukyu-console.svg" width="100%" alt="Soukyu — AI Engineer. 30 public repos including this profile, 249 commits, 46 pull requests and 355 contributions. Snapshot 2026-09-30 08:49 UTC.">
+  <img src="assets/soukyu-console.svg" width="100%" alt="Soukyu — AI Engineer. 32 public repos including this profile, 252 commits, 51 pull requests and 373 contributions. Snapshot 2026-10-06 UTC.">
 </picture>
 
 <picture>
@@ -65,7 +65,7 @@ The #92 validation also surfaced an invalid mypy override; the separate [CDR #95
 
 **Latest GitHub snapshot (GraphQL, 2026-10-06 UTC):** 32 public repositories including this profile; 373 contributions in the trailing year, including 252 commits, 51 pull-request contributions, 8 reviews and 2 issues. These are GitHub activity counters, not a count of merged PRs or a skills score.
 
-The console artwork above is a historical 2026-09-30 snapshot (30 public repos, 249 commits, 46 pull requests and 355 contributions); the activity/language panel is a 2026-09-28 snapshot. They are dated separately from the latest GraphQL totals. Language shares use bytes from public owned repos, excluding forks and this profile, and are not proficiency scores.
+The console artwork above reflects the 2026-10-06 snapshot: 31 public repositories besides this profile, 252 commits, 51 pull requests and 373 contributions. The activity/language panel remains a historical 2026-09-28 snapshot. Language shares use bytes from public owned repos, excluding forks and this profile, and are not proficiency scores.
 
 ### [OpsDesk](https://github.com/ducanhnguyen223/opsdesk)
 
