@@ -44,15 +44,15 @@ I build LLM applications around business context, tools and human review.
 
 **Evidence tooling:** [GitHub Profile Audit](https://github.com/ducanhnguyen223/github-profile-audit) — read-only checks for public repository and profile-README consistency, with tests and CI.
 
-**Selected open upstream work, checked 2026-10-06 23:29 ICT (UTC+7)** — status is shown so open work is not mistaken for merged contributions.
+**Selected open upstream work, checked 2026-10-06 23:48 ICT (UTC+7)** — status is shown so open work is not mistaken for merged contributions.
 
 | Project / PR | Focus | Live status |
 | --- | --- | --- |
 | [LlamaIndex #23299](https://github.com/run-llama/llama_index/pull/23299) | Reject non-positive workflow iteration budgets | Open · review required · no checks reported |
 | [NanoCoder #1528](https://github.com/Nano-Collective/nanocoder/pull/1528) | Disclose when LLM summarization falls back | Open · checks passing · review required |
-| [Pydantic AI #8955](https://github.com/pydantic/pydantic-ai/pull/8955) | Clarify harness snapshots and sandbox examples | Open · checks passing · Macroscope bot approval; not merged |
 | [Clinical Deep Research #91](https://github.com/BlueRingsLabs/Clinical-Deep-Research_CDR/pull/91) | Structured logs, run IDs, failure levels and regression coverage | Open · 7/7 checks passing · review required |
 | [smolagents #2900](https://github.com/huggingface/smolagents/pull/2900) | Review: safe serialization fallback for non-JSON NumPy arrays, including remote-executor coverage | Open · review required · no CI checks; 4 focused local tests and Ruff pass |
+| [Tokenizers #2462](https://github.com/huggingface/tokenizers/pull/2462) | Preserve ByteLevel `add_prefix_space` during canonicalization | Open · maintainer acknowledged; review pending · no CI checks on current head |
 | [Chroma #7848](https://github.com/chroma-core/chroma/pull/7848) | Explain embedding-dimension mismatch without assuming its cause | Open · blocked · reviewer comment says “Approving at `f1159af`”; formal review decision is blank and no code-test check is reported |
 | [Jev RAG #9](https://github.com/aifabrice/jev-rag/pull/9) | Add Windows CLI smoke coverage | Open · changes requested · no checks reported |
 
@@ -66,7 +66,7 @@ The #92 validation also surfaced an invalid mypy override; the separate [CDR #95
 
 **Technical discussions and design work:** [Haystack #12969](https://github.com/deepset-ai/haystack/discussions/12969#discussioncomment-18623580) proposes a fail-closed context-budget guard for RAG; [Jev RAG #5](https://github.com/aifabrice/jev-rag/issues/5#issuecomment-5855272663) proposes an opt-in OCR adapter with page-aware citations and explicit privacy boundaries; [mcp-memory-service #1345](https://github.com/doobidoo/mcp-memory-service/issues/1345#issuecomment-5855848041) proposes idempotent event-log sync and embedding-consistency invariants. RFC author `filhocf` confirmed the invariants were incorporated into the [v0.3 draft](https://github.com/filhocf/mcp-memory-service/blob/doc/rfc-delta-sync-invariants/docs/rfc/rfc-delta-sync.md) (design-only). In the maintainer's [#1304 phased delivery plan](https://github.com/doobidoo/mcp-memory-service/issues/1304#issuecomment-6020517402), the event-log work in #1345 is explicitly gated until the self-hosted secondary contract is integrated; the maintainer plans to open Phase 1 first. The follow-on [RFC PR #4](https://github.com/filhocf/mcp-memory-service/pull/4) on `filhocf`'s fork details alternatives, migration rules, backend scope and the first-PR boundary; the maintainer reopened it after an accidental closure, praised the revision and said they would like to land it. It remains open on that fork and is not merged into upstream `doobidoo/mcp-memory-service`.
 
-**GitHub contribution snapshot (GraphQL, rechecked 2026-10-06 23:29 ICT / 16:29 UTC):** 32 owned public repositories total: 15 non-fork repositories including this profile, plus 17 forks; 377 contributions in the exact preceding 365 days, including 253 commits, 53 pull-request contributions, 8 reviews and 2 issues. These are GitHub activity counters, not a count of merged PRs or a skills score. The values are unchanged from the artwork snapshot below.
+**GitHub contribution snapshot (GraphQL, rechecked 2026-10-06 23:48 ICT / 16:48 UTC):** 32 owned public repositories total: 15 non-fork repositories including this profile, plus 17 forks; 377 contributions in the exact preceding 365 days, including 253 commits, 53 pull-request contributions, 8 reviews and 2 issues. These are GitHub activity counters, not a count of merged PRs or a skills score. The values are unchanged from the artwork snapshot below.
 
 The console artwork above reflects the 2026-10-06 22:57 ICT snapshot: 31 other owned public repositories besides this profile, including 17 forks; 253 commits, 53 pull requests and 377 contributions. The activity/language panel remains a historical 2026-09-28 snapshot. Language shares use bytes from public owned repos, excluding forks and this profile, and are not proficiency scores.
 
