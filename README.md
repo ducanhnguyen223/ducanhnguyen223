@@ -1,6 +1,6 @@
 <picture>
   <source media="(max-width: 600px)" srcset="assets/soukyu-console-mobile.svg">
-  <img src="assets/soukyu-console.svg" width="100%" alt="Soukyu — AI Engineer. 32 owned public repositories total: 15 non-fork repositories including this profile, plus 17 forks; 253 commits, 52 pull requests and 375 contributions. Snapshot 2026-10-06 07:05 ICT (UTC+7).">
+  <img src="assets/soukyu-console.svg" width="100%" alt="Soukyu — AI Engineer. 32 owned public repositories total: 15 non-fork repositories including this profile, plus 17 forks; 253 commits, 53 pull requests and 376 contributions. Snapshot 2026-10-06 07:23 ICT (UTC+7).">
 </picture>
 
 <p align="center"><sub>Repository count: 15 non-fork public repositories (including this profile) + 17 forks = 32 total.</sub></p>
@@ -44,7 +44,7 @@ I build LLM applications around business context, tools and human review.
 
 **Evidence tooling:** [GitHub Profile Audit](https://github.com/ducanhnguyen223/github-profile-audit) — read-only checks for public repository and profile-README consistency, with tests and CI.
 
-**Selected open upstream work, checked 2026-10-06 07:05 ICT (UTC+7)** — status is shown so open work is not mistaken for merged contributions.
+**Selected open upstream work, checked 2026-10-06 07:23 ICT (UTC+7)** — status is shown so open work is not mistaken for merged contributions.
 
 | Project / PR | Focus | Live status |
 | --- | --- | --- |
@@ -65,9 +65,9 @@ The #92 validation also surfaced an invalid mypy override; the separate [CDR #95
 
 **Technical discussions:** [Haystack #12969](https://github.com/deepset-ai/haystack/discussions/12969#discussioncomment-18623580) proposes a fail-closed context-budget guard for RAG; [Jev RAG #5](https://github.com/aifabrice/jev-rag/issues/5#issuecomment-5855272663) proposes an opt-in OCR adapter with page-aware citations and explicit privacy boundaries; [mcp-memory-service #1345](https://github.com/doobidoo/mcp-memory-service/issues/1345#issuecomment-5855848041) proposes idempotent event-log sync and embedding-consistency invariants. RFC author `filhocf` confirmed the invariants were incorporated into the [v0.3 draft](https://github.com/filhocf/mcp-memory-service/blob/doc/rfc-delta-sync-invariants/docs/rfc/rfc-delta-sync.md) (design-only). These discussions are proposals, not merged implementations.
 
-**Latest GitHub snapshot (GraphQL, 2026-10-06 07:05 ICT / 2026-10-06 00:05 UTC):** 32 owned public repositories total: 15 non-fork repositories including this profile, plus 17 forks; 375 contributions in the exact preceding 365 days, including 253 commits, 52 pull-request contributions, 8 reviews and 2 issues. These are GitHub activity counters, not a count of merged PRs or a skills score. Snapshot is dated before the profile correction commit.
+**Latest GitHub snapshot (GraphQL, 2026-10-06 07:23 ICT / 2026-10-06 00:23 UTC):** 32 owned public repositories total: 15 non-fork repositories including this profile, plus 17 forks; 376 contributions in the exact preceding 365 days, including 253 commits, 53 pull-request contributions, 8 reviews and 2 issues. These are GitHub activity counters, not a count of merged PRs or a skills score. Snapshot is dated before this update commit.
 
-The console artwork above reflects the 2026-10-06 07:05 ICT snapshot: 31 other owned public repositories besides this profile, including 17 forks; 253 commits, 52 pull requests and 375 contributions. The activity/language panel remains a historical 2026-09-28 snapshot. Language shares use bytes from public owned repos, excluding forks and this profile, and are not proficiency scores.
+The console artwork above reflects the 2026-10-06 07:23 ICT snapshot: 31 other owned public repositories besides this profile, including 17 forks; 253 commits, 53 pull requests and 376 contributions. The activity/language panel remains a historical 2026-09-28 snapshot. Language shares use bytes from public owned repos, excluding forks and this profile, and are not proficiency scores.
 
 ### [OpsDesk](https://github.com/ducanhnguyen223/opsdesk)
 
