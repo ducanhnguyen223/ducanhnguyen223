@@ -1,6 +1,6 @@
 <picture>
   <source media="(max-width: 600px)" srcset="assets/soukyu-console-mobile.svg">
-  <img src="assets/soukyu-console.svg" width="100%" alt="Soukyu — AI Engineer. 32 owned public repositories total: 15 non-fork repositories including this profile, plus 17 forks; 257 commits, 59 pull-request contributions and 397 total contributions in the preceding 365 days. Snapshot 2026-10-07 20:10 ICT (UTC+7).">
+  <img src="assets/soukyu-console.svg" width="100%" alt="Soukyu — AI Engineer. 32 owned public repositories total: 15 non-fork repositories including this profile, plus 17 forks; 257 commits, 59 pull-request contributions and 398 total contributions in the preceding 365 days. Snapshot 2026-10-07 23:38 ICT (UTC+7).">
 </picture>
 
 <p align="center"><sub>Repository count: 15 non-fork public repositories (including this profile) + 17 forks = 32 total.</sub></p>
@@ -44,7 +44,7 @@ I build LLM applications around business context, tools and human review.
 
 **Evidence tooling:** [GitHub Profile Audit](https://github.com/ducanhnguyen223/github-profile-audit) — read-only checks for public repository and profile-README consistency, with tests and CI.
 
-**Selected open upstream work, checked 2026-10-07 23:25 ICT (UTC+7)** — status is shown so open work is not mistaken for merged contributions.
+**Selected open upstream work, checked 2026-10-07 23:41 ICT (UTC+7)** — status is shown so open work is not mistaken for merged contributions.
 
 | Project / PR | Focus | Live status |
 | --- | --- | --- |
@@ -74,9 +74,9 @@ The #92 validation also surfaced an invalid mypy override; the separate [CDR #95
 
 **Technical discussions and design work:** [Haystack #12969](https://github.com/deepset-ai/haystack/discussions/12969#discussioncomment-18623580) proposes a fail-closed context-budget guard for RAG; [Jev RAG #5](https://github.com/aifabrice/jev-rag/issues/5#issuecomment-5855272663) proposes an opt-in OCR adapter with page-aware citations and explicit privacy boundaries; in [mcp-memory-service #1345](https://github.com/doobidoo/mcp-memory-service/issues/1345#issuecomment-6040181323), RFC author `filhocf` reconciled the proposal to v0.4 and explicitly credited my §8 acceptance invariants and §9 (alternatives, bootstrap/migration, backend scope, first-PR boundary) as co-authored. The RFC's implementation plan has six test-gated phases and is sequenced behind #1304; this is design work, not merged implementation code. In [LangChain #41085](https://github.com/langchain-ai/langchain/issues/41085#issuecomment-6030546272), a transport-level repro and maintainer follow-up locate dropped tool-call IDs in `ollama-python`'s `Message` validation after LangChain conversion; Ollama API/model compatibility still needs confirmation. In the maintainer's [#1304 phased delivery plan](https://github.com/doobidoo/mcp-memory-service/issues/1304#issuecomment-6020517402), Phase 1 ([#1470](https://github.com/doobidoo/mcp-memory-service/pull/1470)) and Phase 2 ([#1471](https://github.com/doobidoo/mcp-memory-service/pull/1471)) have since merged; #1304 remains open for later phases, and #1345 is gated until the self-hosted secondary-storage contract is integrated. Those phase PRs were authored and merged by the maintainer, not by me. The follow-on [RFC PR #4](https://github.com/filhocf/mcp-memory-service/pull/4) on `filhocf`'s fork details alternatives, migration rules, backend scope and the first-PR boundary; the maintainer reopened it after an accidental closure, praised the revision and said they would like to land it. It remains open on that fork and is not merged into upstream `doobidoo/mcp-memory-service`.
 
-**GitHub contribution snapshot (GraphQL, rechecked 2026-10-07 20:10 ICT / 2026-10-07 13:10 UTC):** 32 owned public repositories total: 15 non-fork repositories including this profile, plus 17 forks; 397 contributions in the exact preceding 365 days, including 257 commits, 59 pull-request contributions, 18 reviews and 2 issues. These are GitHub activity counters, not a count of merged PRs or a skills score. The values match the artwork snapshot below.
+**GitHub contribution snapshot (GraphQL, rechecked 2026-10-07 23:38 ICT / 2026-10-07 16:38 UTC):** 32 owned public repositories total: 15 non-fork repositories including this profile, plus 17 forks; 398 contributions in the exact preceding 365 days, including 257 commits, 59 pull-request contributions, 19 reviews and 2 issues. These are GitHub activity counters, not a count of merged PRs or a skills score. The values match the artwork snapshot below.
 
-The console artwork above reflects the 2026-10-07 20:10 ICT snapshot: 31 other owned public repositories besides this profile, including 17 forks; 257 commits, 59 pull-request contributions and 397 total contributions in the preceding 365 days. The activity/language panel remains a historical 2026-09-28 snapshot. Language shares use bytes from public owned repos, excluding forks and this profile, and are not proficiency scores.
+The console artwork above reflects the 2026-10-07 23:38 ICT snapshot: 31 other owned public repositories besides this profile, including 17 forks; 257 commits, 59 pull-request contributions and 398 total contributions in the preceding 365 days. The activity/language panel remains a historical 2026-09-28 snapshot. Language shares use bytes from public owned repos, excluding forks and this profile, and are not proficiency scores.
 
 ### [OpsDesk](https://github.com/ducanhnguyen223/opsdesk)
 
