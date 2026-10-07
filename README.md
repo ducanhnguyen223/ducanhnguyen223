@@ -44,7 +44,7 @@ I build LLM applications around business context, tools and human review.
 
 **Evidence tooling:** [GitHub Profile Audit](https://github.com/ducanhnguyen223/github-profile-audit) — read-only checks for public repository and profile-README consistency, with tests and CI.
 
-**Selected open upstream work, checked 2026-10-07 15:01 ICT (UTC+7)** — status is shown so open work is not mistaken for merged contributions.
+**Selected open upstream work, checked 2026-10-07 15:49 ICT (UTC+7)** — status is shown so open work is not mistaken for merged contributions.
 
 | Project / PR | Focus | Live status |
 | --- | --- | --- |
@@ -54,7 +54,7 @@ I build LLM applications around business context, tools and human review.
 | [smolagents #2900](https://github.com/huggingface/smolagents/pull/2900) | Review: safe serialization fallback for non-JSON NumPy arrays, including remote-executor coverage | Open · Soukyu submitted APPROVED review at `6287979`; overall review still required · no CI checks; 4 focused local tests and Ruff pass |
 | [smolagents #2899](https://github.com/huggingface/smolagents/pull/2899) | Review: preserve Python `except` semantics for unrelated chained tool errors | Open · Soukyu approved current head `9b5c740`; overall review still required · author reports 17 focused tests and Ruff pass after a style follow-up; no hosted checks |
 | [Tokenizers #2462](https://github.com/huggingface/tokenizers/pull/2462) | Preserve ByteLevel `add_prefix_space` during canonicalization | Open · review required · no checks reported on current head `ee01d75`; the Rust failure was on an older head, and a maintainer said they would review |
-| [Chroma #7792](https://github.com/chroma-core/chroma/pull/7792) | Review: bound the lifetime of cached Transformers.js embedding pipelines | Open · merge-blocked; author added a four-entry LRU and eviction/concurrency tests at `9117abe`; Graphite mergeability passed, AI review skipped; no formal review decision |
+| [Chroma #7792](https://github.com/chroma-core/chroma/pull/7792) | Review: bound the lifetime of cached Transformers.js embedding pipelines | Open · merge-blocked at `9117abe`; four-entry LRU and eviction/concurrency tests added by the author; Graphite mergeability passed, AI review skipped. Soukyu left a non-blocking static review on callback forwarding ([review](https://github.com/chroma-core/chroma/pull/7792#pullrequestreview-5439795562)); no local JS suite run or approval |
 | [Chroma #7848](https://github.com/chroma-core/chroma/pull/7848) | Explain embedding-dimension mismatch without assuming its cause | Open · merge-blocked; maintainer comment approves code at `f1159af` and reports focused tests pass; 1 check passed, 2 skipped; no formal review decision |
 | [LangChain #41023](https://github.com/langchain-ai/langchain/pull/41023) | Review: prevent `JumpToToolsMiddleware` from bypassing human approval | Open · merge-blocked pending review; latest head `9ae66fb`; 55 checks passed, 2 skipped · maintainer reproduced the issue and committed an execution-time fix |
 | [Jev RAG #9](https://github.com/aifabrice/jev-rag/pull/9) | Add Windows CLI smoke coverage | Open · head `5092b87` addresses the requested rebase, pins, extras and compile changes; prior CHANGES_REQUESTED decision remains until re-review; awaiting workflow approval · no checks |
