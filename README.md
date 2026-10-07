@@ -44,12 +44,12 @@ I build LLM applications around business context, tools and human review.
 
 **Evidence tooling:** [GitHub Profile Audit](https://github.com/ducanhnguyen223/github-profile-audit) — read-only checks for public repository and profile-README consistency, with tests and CI.
 
-**Selected open upstream work, checked 2026-10-07 22:38 ICT (UTC+7)** — status is shown so open work is not mistaken for merged contributions.
+**Selected open upstream work, checked 2026-10-07 23:25 ICT (UTC+7)** — status is shown so open work is not mistaken for merged contributions.
 
 | Project / PR | Focus | Live status |
 | --- | --- | --- |
 | [LlamaIndex #23299](https://github.com/run-llama/llama_index/pull/23299) | Reject non-positive workflow iteration budgets | Open · review required · no checks reported |
-| [NanoCoder #1528](https://github.com/Nano-Collective/nanocoder/pull/1528) | Disclose when LLM summarization falls back | Open · 17/17 checks passing · review required |
+| [NanoCoder #1528](https://github.com/Nano-Collective/nanocoder/pull/1528) | Disclose when LLM summarization falls back | Open · 2/2 reported checks passing (changeset, label) · review required |
 | [NanoCoder #1622](https://github.com/Nano-Collective/nanocoder/pull/1622) | Bash completion: suppress subcommands after value-taking flags while retaining enum suggestions | Open · 3/3 GitHub checks passing · review required; not merged |
 | [NanoCoder #1623](https://github.com/Nano-Collective/nanocoder/pull/1623) | Preserve literal placeholder-looking text in Markdown responses | Open · 3/3 GitHub checks passing, including automated review · human review required; not merged |
 | [Clinical Deep Research #91](https://github.com/BlueRingsLabs/Clinical-Deep-Research_CDR/pull/91) | Structured logs, run IDs, failure levels and regression coverage | Open · 7/7 checks passing · review required |
@@ -58,7 +58,7 @@ I build LLM applications around business context, tools and human review.
 | [Tokenizers #2462](https://github.com/huggingface/tokenizers/pull/2462) | Preserve ByteLevel `add_prefix_space` during canonicalization | Open · review required · no checks reported on current head `ee01d75`; the Rust failure was on an older head, and a maintainer said they would review |
 | [Chroma #7792](https://github.com/chroma-core/chroma/pull/7792) | Review: bound the lifetime of cached Transformers.js embedding pipelines | Open at `861f1f0`; author has now addressed callback fan-out and cleanup, but Soukyu's latest review still flags duplicate loads if an unresolved entry is evicted and Prettier failures. Soukyu ran 15 focused tests; Graphite mergeability passed, AI review skipped. Awaiting author follow-up; no formal approval |
 | [Chroma #7806](https://github.com/chroma-core/chroma/pull/7806) | Review: hash Unicode BM25 terms as UTF-8 bytes across clients | Open at `6f116b5`; Soukyu reran the focused Jest package suite (7/7 passed) after bypassing a pre-existing frozen-lockfile mismatch, and the author acknowledged the result. No merge or formal approval |
-| [LiteLLM #44361](https://github.com/BerriAI/litellm/pull/44361) | Review: keep OpenAI-compatible embedding headers out of request JSON | Open at `02ab784`; author fixed case-insensitive `Authorization` handling and added regressions. As of 2026-10-07 22:54 ICT, all 101 reported checks pass. Review is still required; prior `CHANGES_REQUESTED` was on `33f74fb`, and this head is not yet re-approved |
+| [LiteLLM #44361](https://github.com/BerriAI/litellm/pull/44361) | Review: keep OpenAI-compatible embedding headers out of request JSON | Open at `02ab784`; all 101 reported checks pass. Soukyu approved this head at 23:22 ICT; overall review is still required from maintainers. Not merged |
 | [Chroma #7848](https://github.com/chroma-core/chroma/pull/7848) | Explain embedding-dimension mismatch without assuming its cause | Open · merge-blocked; maintainer comment approves code at `f1159af` and reports focused tests pass; 1 check passed, 2 skipped; no formal review decision |
 | [LangChain #41023](https://github.com/langchain-ai/langchain/pull/41023) | Review: prevent `JumpToToolsMiddleware` from bypassing human approval | Open · latest head `9ae66fb`; 55 checks passed, 2 skipped. Maintainer fixed the middleware-order bypass; Soukyu's follow-up review flags a potentially stale reviewed-call marker when a later model turn reuses a tool-call ID and requests a two-turn regression. Awaiting author response; no formal review decision |
 | [Jev RAG #9](https://github.com/aifabrice/jev-rag/pull/9) | Add Windows CLI smoke coverage | Open · head `5092b87` addresses the requested rebase, pins, extras and compile changes; prior CHANGES_REQUESTED decision remains until re-review; awaiting workflow approval · no checks |
