@@ -44,13 +44,14 @@ I build LLM applications around business context, tools and human review.
 
 **Evidence tooling:** [GitHub Profile Audit](https://github.com/ducanhnguyen223/github-profile-audit) — read-only checks for public repository and profile-README consistency, with tests and CI.
 
-**Selected open upstream work, last full check 2026-10-08 21:33 ICT (UTC+7); PR lifecycle/head refresh 22:16 ICT** — status is shown so open work is not mistaken for merged contributions. Check results below remain tied to their recorded heads and times.
+**Selected open upstream work, last full check 2026-10-08 21:33 ICT (UTC+7); PR lifecycle/head refresh 22:23 ICT** — status is shown so open work is not mistaken for merged contributions. Check results below remain tied to their recorded heads and times.
 
 | Project / PR | Focus | Live status |
 | --- | --- | --- |
 | [LangGraphJS #2970](https://github.com/langchain-ai/langgraphjs/pull/2970) | Keep protocol-run auth scoped to the current request; add a concurrent two-identity regression | Open at `cbcca8d`; all 24 reported checks pass · no maintainer review yet · not merged |
 | [LlamaIndex #23299](https://github.com/run-llama/llama_index/pull/23299) | Reject non-positive workflow iteration budgets | Open · review required · no checks reported |
 | [LlamaIndex #23365](https://github.com/run-llama/llama_index/pull/23365) | Review: lazy imports for RankLLMRerank without vLLM | Open at `eb1c836`; one check passes. Soukyu flagged that construction and execution still reach the vLLM import chain for RankGPT · awaiting author response · no local tests run |
+| [mcp-memory-service #1487](https://github.com/doobidoo/mcp-memory-service/pull/1487) | Co-authored the delta-sync ADR/spec and Phase 3 embedding-consistency guardrail commits with `filhocf` | Open at `820c58a`; latest follow-up fixes a delete-path regression found by Greptile; no hosted checks reported on this head and no human review yet |
 | [NanoCoder #1528](https://github.com/Nano-Collective/nanocoder/pull/1528) | Disclose when LLM summarization falls back | Open · 2/2 reported checks passing (changeset, label) · review required |
 | [NanoCoder #1622](https://github.com/Nano-Collective/nanocoder/pull/1622) | Bash completion: suppress subcommands after value-taking flags while retaining enum suggestions | Open (rechecked 14:22 ICT); Devesh36's independent review found no diff issue but did not rerun tests · 3 available checks pass; full CI is `action_required` with no jobs pending maintainer approval · not merged |
 | [NanoCoder #1623](https://github.com/Nano-Collective/nanocoder/pull/1623) | Preserve literal placeholder-looking text in Markdown responses | Open (rechecked 14:22 ICT); Devesh36's independent review found no diff issue but did not rerun tests · 3 available checks pass; full CI is `action_required` with no jobs pending maintainer approval · not merged |
