@@ -1,6 +1,6 @@
 <picture>
   <source media="(max-width: 600px)" srcset="assets/soukyu-console-mobile.svg">
-  <img src="assets/soukyu-console.svg" width="100%" alt="Soukyu — AI Engineer. Current public-repository inventory checked 2026-10-08: 33 total (15 non-fork repositories including this profile, plus 18 forks). Separate activity snapshot at 2026-10-08 21:42 ICT: 259 commits, 63 pull-request contributions and 413 total contributions in the preceding 365 days.">
+  <img src="assets/soukyu-console.svg" width="100%" alt="Soukyu — AI Engineer. Current public-repository inventory checked 2026-10-08: 33 total (15 non-fork repositories including this profile, plus 18 forks). Separate activity snapshot at 2026-10-08 23:56 ICT: 261 commits, 63 pull-request contributions, 27 reviews, 2 issues and 415 total contributions in the exact preceding 365 days.">
 </picture>
 
 <p align="center"><sub>Current public-repository inventory (live check 2026-10-08): 15 non-fork repositories (including this profile) + 18 forks = 33 total.</sub></p>
@@ -44,7 +44,7 @@ I build LLM applications around business context, tools and human review.
 
 **Evidence tooling:** [GitHub Profile Audit](https://github.com/ducanhnguyen223/github-profile-audit) — read-only checks for public repository and profile-README consistency, with tests and CI.
 
-**Selected open upstream work, full PR/status audit 2026-10-08 22:55 ICT (UTC+7); #1487 merged 23:35 ICT; #23365 review follow-up 23:03 ICT** — status is shown so open work is not mistaken for merged contributions. Check results below remain tied to their recorded heads and times.
+**Selected open upstream work, status snapshot audited 2026-10-08 22:55 ICT (UTC+7), with later material events noted inline** — status is shown so open work is not mistaken for merged contributions. Check results below remain tied to their recorded heads and times.
 
 | Project / PR | Focus | Live status |
 | --- | --- | --- |
@@ -94,9 +94,9 @@ In [LangChain #41085](https://github.com/langchain-ai/langchain/issues/41085), I
 
 **Phase 1 review follow-up (2026-10-08 06:54 ICT):** At head `5464edc`, the maintainer-authored regression deterministically exercises the competing-writer SQLite lock/retry path; the final connection probe skips semantic dedup and reports its failure reason. I approved this head after review. The PR remains open and `REVIEW_REQUIRED` for maintainer approval, with 18 checks passing and external-link checking skipped. I did not run the suite locally.
 
-**GitHub contribution snapshot (GraphQL, rechecked 2026-10-08 21:42 ICT / 2026-10-08 14:42 UTC):** 33 owned public repositories total: 15 non-fork repositories including this profile, plus 18 forks; 413 contributions in the exact preceding 365 days, including 259 commits, 63 pull-request contributions, 27 reviews and 2 issues. These are GitHub activity counters, not a count of merged PRs or a skills score. The repository inventory is a separate live count checked on 2026-10-08, not a historical repository count from the activity window (GitHub does not expose that history). The activity counters match the artwork snapshot below.
+**GitHub contribution snapshot (GraphQL, rechecked 2026-10-08 23:56 ICT / 2026-10-08 16:56 UTC):** 33 owned public repositories total: 15 non-fork repositories including this profile, plus 18 forks; 415 contributions in the exact preceding 365 days, including 261 commits, 63 pull-request contributions, 27 reviews and 2 issues. These are GitHub activity counters, not a count of merged PRs or a skills score. The repository inventory is a separate live count checked on 2026-10-08, not a historical repository count from the activity window (GitHub does not expose that history). The activity counters match the artwork snapshot below.
 
-The console artwork above uses activity counters from the 2026-10-08 21:42 ICT snapshot; its public-repository tile reflects the separate current inventory checked on 2026-10-08, not a historical count from 21:42. The activity/language panels use the 2026-10-08 GraphQL snapshot. Language shares use bytes from public owned repos, excluding forks and this profile, and are not proficiency scores.
+The console artwork above uses activity counters from the 2026-10-08 23:56 ICT snapshot; its public-repository tile reflects the separate current inventory checked on 2026-10-08, not a historical count from 23:56. The activity/language panels use the same 2026-10-08 GraphQL snapshot. Language shares use bytes from public owned repos, excluding forks and this profile, and are not proficiency scores.
 
 ### [OpsDesk](https://github.com/ducanhnguyen223/opsdesk)
 
