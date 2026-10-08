@@ -44,7 +44,7 @@ I build LLM applications around business context, tools and human review.
 
 **Evidence tooling:** [GitHub Profile Audit](https://github.com/ducanhnguyen223/github-profile-audit) — read-only checks for public repository and profile-README consistency, with tests and CI.
 
-**Selected open upstream work, last full check 2026-10-08 14:03 ICT (UTC+7)** — status is shown so open work is not mistaken for merged contributions.
+**Selected open upstream work, last full check 2026-10-08 14:37 ICT (UTC+7)** — status is shown so open work is not mistaken for merged contributions.
 
 | Project / PR | Focus | Live status |
 | --- | --- | --- |
