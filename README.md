@@ -44,7 +44,7 @@ I build LLM applications around business context, tools and human review.
 
 **Evidence tooling:** [GitHub Profile Audit](https://github.com/ducanhnguyen223/github-profile-audit) — read-only checks for public repository and profile-README consistency, with tests and CI.
 
-**Selected open upstream work, checked 2026-10-08 08:35 ICT (UTC+7)** — status is shown so open work is not mistaken for merged contributions.
+**Selected open upstream work, checked 2026-10-08 08:47 ICT (UTC+7)** — status is shown so open work is not mistaken for merged contributions.
 
 | Project / PR | Focus | Live status |
 | --- | --- | --- |
@@ -53,7 +53,7 @@ I build LLM applications around business context, tools and human review.
 | [NanoCoder #1528](https://github.com/Nano-Collective/nanocoder/pull/1528) | Disclose when LLM summarization falls back | Open · 2/2 reported checks passing (changeset, label) · review required |
 | [NanoCoder #1622](https://github.com/Nano-Collective/nanocoder/pull/1622) | Bash completion: suppress subcommands after value-taking flags while retaining enum suggestions | Open · 3/3 GitHub checks passing · review required; not merged |
 | [NanoCoder #1623](https://github.com/Nano-Collective/nanocoder/pull/1623) | Preserve literal placeholder-looking text in Markdown responses | Open · 3/3 GitHub checks passing, including automated review · human review required; not merged |
-| [mcp-memory-service #1478](https://github.com/doobidoo/mcp-memory-service/pull/1478) | Review: make the Phase 1 event-log batch safe under SQLite lock retries | Open at `5464edc`; Soukyu approved after the real competing-writer retry regression and semantic-dedup-independent connection probe passed hosted checks. 18 checks pass, external-link check skipped; no unresolved threads. GitHub still requires review; not merged. Tests were not run locally. Implementation is maintainer-authored |
+| [mcp-memory-service #1478](https://github.com/doobidoo/mcp-memory-service/pull/1478) | Review: make the Phase 1 event-log batch safe under SQLite lock retries | Open at `5464edc`; Soukyu approved after the real competing-writer retry regression and semantic-dedup-independent connection probe passed hosted checks. 17 reported checks pass, external-link check skipped; no unresolved threads. GitHub still requires review; not merged. Tests were not run locally. Implementation is maintainer-authored |
 | [smolagents #2900](https://github.com/huggingface/smolagents/pull/2900) | Review: safe serialization fallback for non-JSON NumPy arrays, including remote-executor coverage | Open · Soukyu approved at `6287979`; independent review reported 4 focused tests passing plus nested `timedelta64`/object-array cases with no issue (remote path was in-process) · no hosted checks, full-suite run or live executor service; overall review still required |
 | [smolagents #2899](https://github.com/huggingface/smolagents/pull/2899) | Review: preserve Python `except` semantics for unrelated chained tool errors | Open · Soukyu approved current head `9b5c740`; overall review still required · author reports 17 focused tests and Ruff pass after a style follow-up; no hosted checks |
 | [Tokenizers #2462](https://github.com/huggingface/tokenizers/pull/2462) | Preserve ByteLevel `add_prefix_space` during canonicalization | Open at `ee01d75` · review required · no checks reported on current head; a Rust workflow failure was on older head `3b26ac6` |
