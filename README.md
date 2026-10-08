@@ -44,11 +44,11 @@ I build LLM applications around business context, tools and human review.
 
 **Evidence tooling:** [GitHub Profile Audit](https://github.com/ducanhnguyen223/github-profile-audit) — read-only checks for public repository and profile-README consistency, with tests and CI.
 
-**Selected open upstream work, checked 2026-10-08 08:30 ICT (UTC+7)** — status is shown so open work is not mistaken for merged contributions.
+**Selected open upstream work, checked 2026-10-08 08:35 ICT (UTC+7)** — status is shown so open work is not mistaken for merged contributions.
 
 | Project / PR | Focus | Live status |
 | --- | --- | --- |
-| [LangGraphJS #2970](https://github.com/langchain-ai/langgraphjs/pull/2970) | Keep protocol-run auth scoped to the current request; add a concurrent two-identity regression | Open at `cbcca8d`; 22 of 24 checks pass, including build, lint, formatting, release preview, Corridor and Socket; macOS and Windows unit tests are still running · no maintainer review yet · not merged |
+| [LangGraphJS #2970](https://github.com/langchain-ai/langgraphjs/pull/2970) | Keep protocol-run auth scoped to the current request; add a concurrent two-identity regression | Open at `cbcca8d`; all 24 reported checks pass · no maintainer review yet · not merged |
 | [LlamaIndex #23299](https://github.com/run-llama/llama_index/pull/23299) | Reject non-positive workflow iteration budgets | Open · review required · no checks reported |
 | [NanoCoder #1528](https://github.com/Nano-Collective/nanocoder/pull/1528) | Disclose when LLM summarization falls back | Open · 2/2 reported checks passing (changeset, label) · review required |
 | [NanoCoder #1622](https://github.com/Nano-Collective/nanocoder/pull/1622) | Bash completion: suppress subcommands after value-taking flags while retaining enum suggestions | Open · 3/3 GitHub checks passing · review required; not merged |
