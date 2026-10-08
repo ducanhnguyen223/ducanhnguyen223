@@ -1,6 +1,6 @@
 <picture>
   <source media="(max-width: 600px)" srcset="assets/soukyu-console-mobile.svg">
-  <img src="assets/soukyu-console.svg" width="100%" alt="Soukyu — AI Engineer. 33 owned public repositories total: 15 non-fork repositories including this profile, plus 18 forks; 259 commits, 61 pull-request contributions and 406 total contributions in the preceding 365 days. Snapshot 2026-10-08 08:30 ICT (UTC+7).">
+  <img src="assets/soukyu-console.svg" width="100%" alt="Soukyu — AI Engineer. 33 owned public repositories total: 15 non-fork repositories including this profile, plus 18 forks; 259 commits, 61 pull-request contributions and 407 total contributions in the preceding 365 days. Snapshot 2026-10-08 09:53 ICT (UTC+7).">
 </picture>
 
 <p align="center"><sub>Repository count: 15 non-fork public repositories (including this profile) + 18 forks = 33 total.</sub></p>
@@ -44,7 +44,7 @@ I build LLM applications around business context, tools and human review.
 
 **Evidence tooling:** [GitHub Profile Audit](https://github.com/ducanhnguyen223/github-profile-audit) — read-only checks for public repository and profile-README consistency, with tests and CI.
 
-**Selected open upstream work, checked 2026-10-08 09:08 ICT (UTC+7)** — status is shown so open work is not mistaken for merged contributions.
+**Selected open upstream work, checked 2026-10-08 09:48 ICT (UTC+7)** — status is shown so open work is not mistaken for merged contributions.
 
 | Project / PR | Focus | Live status |
 | --- | --- | --- |
@@ -83,9 +83,9 @@ The #92 validation also surfaced an invalid mypy override; the separate [CDR #95
 
 **Phase 1 review follow-up (2026-10-08 06:54 ICT):** At head `5464edc`, the maintainer-authored regression deterministically exercises the competing-writer SQLite lock/retry path; the final connection probe skips semantic dedup and reports its failure reason. I approved this head after review. The PR remains open and `REVIEW_REQUIRED` for maintainer approval, with 18 checks passing and external-link checking skipped. I did not run the suite locally.
 
-**GitHub contribution snapshot (GraphQL, rechecked 2026-10-08 08:30 ICT / 2026-10-08 01:30 UTC):** 33 owned public repositories total: 15 non-fork repositories including this profile, plus 18 forks; 406 contributions in the exact preceding 365 days, including 259 commits, 61 pull-request contributions, 22 reviews and 2 issues. These are GitHub activity counters, not a count of merged PRs or a skills score. The values match the artwork snapshot below.
+**GitHub contribution snapshot (GraphQL, rechecked 2026-10-08 09:53 ICT / 2026-10-08 02:53 UTC):** 33 owned public repositories total: 15 non-fork repositories including this profile, plus 18 forks; 407 contributions in the exact preceding 365 days, including 259 commits, 61 pull-request contributions, 23 reviews and 2 issues. These are GitHub activity counters, not a count of merged PRs or a skills score. The values match the artwork snapshot below.
 
-The console artwork above reflects the 2026-10-08 08:30 ICT snapshot: 32 other owned public repositories besides this profile, including 18 forks; 259 commits, 61 pull-request contributions and 406 total contributions in the preceding 365 days. The activity/language panel remains a historical 2026-09-28 snapshot. Language shares use bytes from public owned repos, excluding forks and this profile, and are not proficiency scores.
+The console artwork above reflects the 2026-10-08 09:53 ICT snapshot: 32 other owned public repositories besides this profile, including 18 forks; 259 commits, 61 pull-request contributions and 407 total contributions in the preceding 365 days. The activity/language panel remains a historical 2026-09-28 snapshot. Language shares use bytes from public owned repos, excluding forks and this profile, and are not proficiency scores.
 
 ### [OpsDesk](https://github.com/ducanhnguyen223/opsdesk)
 
