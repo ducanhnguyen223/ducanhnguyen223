@@ -1,6 +1,6 @@
 <picture>
   <source media="(max-width: 600px)" srcset="assets/soukyu-console-mobile.svg">
-  <img src="assets/soukyu-console.svg" width="100%" alt="Soukyu — AI Engineer. 33 owned public repositories total: 15 non-fork repositories including this profile, plus 18 forks; 259 commits, 63 pull-request contributions and 412 total contributions in the preceding 365 days. Snapshot 2026-10-08 21:12 ICT (UTC+7).">
+  <img src="assets/soukyu-console.svg" width="100%" alt="Soukyu — AI Engineer. 33 owned public repositories total: 15 non-fork repositories including this profile, plus 18 forks; 259 commits, 63 pull-request contributions and 413 total contributions in the preceding 365 days. Snapshot 2026-10-08 21:42 ICT (UTC+7).">
 </picture>
 
 <p align="center"><sub>Repository count: 15 non-fork public repositories (including this profile) + 18 forks = 33 total.</sub></p>
@@ -95,9 +95,9 @@ In [LangChain #41085](https://github.com/langchain-ai/langchain/issues/41085), I
 
 **Phase 1 review follow-up (2026-10-08 06:54 ICT):** At head `5464edc`, the maintainer-authored regression deterministically exercises the competing-writer SQLite lock/retry path; the final connection probe skips semantic dedup and reports its failure reason. I approved this head after review. The PR remains open and `REVIEW_REQUIRED` for maintainer approval, with 18 checks passing and external-link checking skipped. I did not run the suite locally.
 
-**GitHub contribution snapshot (GraphQL, rechecked 2026-10-08 21:12 ICT / 2026-10-08 14:12 UTC):** 33 owned public repositories total: 15 non-fork repositories including this profile, plus 18 forks; 412 contributions in the exact preceding 365 days, including 259 commits, 63 pull-request contributions, 26 reviews and 2 issues. These are GitHub activity counters, not a count of merged PRs or a skills score. The values match the artwork snapshot below.
+**GitHub contribution snapshot (GraphQL, rechecked 2026-10-08 21:42 ICT / 2026-10-08 14:42 UTC):** 33 owned public repositories total: 15 non-fork repositories including this profile, plus 18 forks; 413 contributions in the exact preceding 365 days, including 259 commits, 63 pull-request contributions, 27 reviews and 2 issues. These are GitHub activity counters, not a count of merged PRs or a skills score. The values match the artwork snapshot below.
 
-The console artwork above reflects the 2026-10-08 21:12 ICT snapshot: 32 other owned public repositories besides this profile, including 18 forks; 259 commits, 63 pull-request contributions and 412 total contributions in the preceding 365 days. The activity/language panels use the 2026-10-08 GraphQL snapshot. Language shares use bytes from public owned repos, excluding forks and this profile, and are not proficiency scores.
+The console artwork above reflects the 2026-10-08 21:42 ICT snapshot: 32 other owned public repositories besides this profile, including 18 forks; 259 commits, 63 pull-request contributions and 413 total contributions in the preceding 365 days. The activity/language panels use the 2026-10-08 GraphQL snapshot. Language shares use bytes from public owned repos, excluding forks and this profile, and are not proficiency scores.
 
 ### [OpsDesk](https://github.com/ducanhnguyen223/opsdesk)
 
