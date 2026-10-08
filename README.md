@@ -1,6 +1,6 @@
 <picture>
   <source media="(max-width: 600px)" srcset="assets/soukyu-console-mobile.svg">
-  <img src="assets/soukyu-console.svg" width="100%" alt="Soukyu — AI Engineer. 32 owned public repositories total: 15 non-fork repositories including this profile, plus 17 forks; 257 commits, 59 pull-request contributions and 398 total contributions in the preceding 365 days. Snapshot 2026-10-08 02:27 ICT (UTC+7).">
+  <img src="assets/soukyu-console.svg" width="100%" alt="Soukyu — AI Engineer. 32 owned public repositories total: 15 non-fork repositories including this profile, plus 17 forks; 259 commits, 60 pull-request contributions and 403 total contributions in the preceding 365 days. Snapshot 2026-10-08 07:02 ICT (UTC+7).">
 </picture>
 
 <p align="center"><sub>Repository count: 15 non-fork public repositories (including this profile) + 17 forks = 32 total.</sub></p>
@@ -79,11 +79,11 @@ The #92 validation also surfaced an invalid mypy override; the separate [CDR #95
 
 **mcp-memory-service RFC follow-up (2026-10-08 04:20 ICT):** In issue [#1345](https://github.com/doobidoo/mcp-memory-service/issues/1345), collaborator `filhocf` confirmed v0.4 is pinned on the fork branch and the #1304 phase gate is satisfied. The Phase 1 PR description now lists which write paths emit events and which remain out of scope, making the review boundary explicit.
 
-**Phase 1 review follow-up (2026-10-08 04:24 ICT):** At head `f935220`, the maintainer-added test covers a failed final `COMMIT`; it does not reproduce the transient lock/retry sequence from my review. The latest run has 17 checks passing, external links skipped, and no pending or failed checks. I posted a [follow-up](https://github.com/doobidoo/mcp-memory-service/pull/1478#issuecomment-6047109178) requesting a focused lock-retry regression and correction of an inaccurate co-author trailer; PR #1478 remains open and review-required.
+**Phase 1 review follow-up (2026-10-08 06:54 ICT):** At head `5464edc`, the maintainer-authored regression deterministically exercises the competing-writer SQLite lock/retry path; the final connection probe skips semantic dedup and reports its failure reason. I approved this head after review. The PR remains open and `REVIEW_REQUIRED` for maintainer approval, with 18 checks passing and external-link checking skipped. I did not run the suite locally.
 
-**GitHub contribution snapshot (GraphQL, rechecked 2026-10-08 02:27 ICT / 2026-10-07 19:27 UTC):** 32 owned public repositories total: 15 non-fork repositories including this profile, plus 17 forks; 398 contributions in the exact preceding 365 days, including 257 commits, 59 pull-request contributions, 19 reviews and 2 issues. These are GitHub activity counters, not a count of merged PRs or a skills score. The values match the artwork snapshot below.
+**GitHub contribution snapshot (GraphQL, rechecked 2026-10-08 07:02 ICT / 2026-10-08 00:02 UTC):** 32 owned public repositories total: 15 non-fork repositories including this profile, plus 17 forks; 403 contributions in the exact preceding 365 days, including 259 commits, 60 pull-request contributions, 21 reviews and 2 issues. These are GitHub activity counters, not a count of merged PRs or a skills score. The values match the artwork snapshot below.
 
-The console artwork above reflects the 2026-10-08 02:27 ICT snapshot: 31 other owned public repositories besides this profile, including 17 forks; 257 commits, 59 pull-request contributions and 398 total contributions in the preceding 365 days. The activity/language panel remains a historical 2026-09-28 snapshot. Language shares use bytes from public owned repos, excluding forks and this profile, and are not proficiency scores.
+The console artwork above reflects the 2026-10-08 07:02 ICT snapshot: 31 other owned public repositories besides this profile, including 17 forks; 259 commits, 60 pull-request contributions and 403 total contributions in the preceding 365 days. The activity/language panel remains a historical 2026-09-28 snapshot. Language shares use bytes from public owned repos, excluding forks and this profile, and are not proficiency scores.
 
 ### [OpsDesk](https://github.com/ducanhnguyen223/opsdesk)
 
