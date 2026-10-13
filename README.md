@@ -44,7 +44,7 @@ I build LLM applications around business context, tools and human review.
 
 **Evidence tooling:** [GitHub Profile Audit](https://github.com/ducanhnguyen223/github-profile-audit) — read-only checks for public repository and profile-README consistency, with tests and CI.
 
-**Selected open upstream work, GitHub state fields (head, review decision, mergeability and reported checks) rechecked 2026-10-14 02:49 ICT / 2026-10-13 19:49 UTC; later additions carry their own check times.** Detailed review notes below retain their own evidence dates; open work is not presented as merged contributions, and hosted checks are not substituted for local test claims.
+**Selected open upstream work, GitHub state fields (head, review decision, mergeability and reported checks) rechecked 2026-10-14 04:28 ICT / 2026-10-13 21:28 UTC.** Detailed test and review notes below retain their own evidence dates; open work is not presented as merged contributions, and hosted checks are not substituted for local test claims.
 
 | Project / PR | Focus | Live status |
 | --- | --- | --- |
@@ -70,7 +70,7 @@ I build LLM applications around business context, tools and human review.
 | [LangChain #41023](https://github.com/langchain-ai/langchain/pull/41023) | Review: prevent `JumpToToolsMiddleware` from bypassing human approval | Open at `6e9d7c6`; 55 checks passed, 2 skipped. Maintainer requested splitting the `factory.py` routing fix from HITL changes pending #41062. Soukyu's separate concern about a reused tool-call ID across turns has no documented resolution; no formal review decision |
 | [Jev RAG #9](https://github.com/aifabrice/jev-rag/pull/9) | Add Windows CLI smoke coverage | Open at `85c3cb7`, rebased on upstream `main` `424001c`; release-safety, compile, Ruff lint, all 60 tests, sdist/wheel build, Twine and diff checks pass locally. Prior CHANGES_REQUESTED remains; GitHub reports no checks until maintainer approves the fork workflow. Asked for approval and re-review; Windows result remains unverified |
 | [Ollama Python #712](https://github.com/ollama/ollama-python/pull/712) | Review: preserve tool-call and tool-result IDs through request validation | Open at `621266d` but merge-conflicting; no checks. Soukyu asked whether the API preserves result-side `tool_call_id`; no maintainer response |
-| [Semantic Kernel #14592](https://github.com/microsoft/semantic-kernel/pull/14592) | Migrate LM Studio embedding sample off deprecated memory APIs | Open at `207a9e9`; local vector-store sample test and in-memory collection suite pass (44 total), Ruff lint/format pass · `prepare_pr`, title, team, and label checks pass; license/CLA pending, review check skipped, no code-test CI reported · maintainer review required, not merged (rechecked 2026-10-14 04:10 ICT) |
+| [Semantic Kernel #14592](https://github.com/microsoft/semantic-kernel/pull/14592) | Migrate LM Studio embedding sample off deprecated memory APIs | Open at `207a9e9`; local vector-store sample test and in-memory collection suite pass (44 total), Ruff lint/format pass · `prepare_pr`, title, team, and label checks pass; license/CLA pending, review check skipped, no code-test CI reported · maintainer review required, not merged (rechecked 2026-10-14 04:28 ICT) |
 
 Haystack [#12986](https://github.com/deepset-ai/haystack/pull/12986) is not listed as open: the maintainer closed it without merge on 2026-10-01 because it duplicated #13009.
 
