@@ -44,7 +44,24 @@ I build LLM applications around business context, tools and human review.
 
 **Evidence tooling:** [GitHub Profile Audit](https://github.com/ducanhnguyen223/github-profile-audit) — read-only checks for public repository and profile-README consistency, with tests and CI.
 
-**Selected open upstream work, GitHub state fields (lifecycle, head, review decision, mergeability and reported checks) rechecked live across all 49 linked PRs on 2026-10-14.** Detailed test and review notes below retain their own evidence dates; open work is not presented as merged contributions, and hosted checks are not substituted for local test claims.
+### Selected upstream contributions
+
+- **[NanoCoder #1622](https://github.com/Nano-Collective/nanocoder/pull/1622) — merged.** Fixed Bash completion for assigned issue [#1593](https://github.com/Nano-Collective/nanocoder/issues/1593), where a value-taking flag fell through to subcommand suggestions; merged by the maintainer after focused CLI regression coverage.
+- **[Clinical Deep Research #91](https://github.com/BlueRingsLabs/Clinical-Deep-Research_CDR/pull/91) — merged.** Replaced diagnostic prints with structured logging and regression tests; updated from maintainer feedback before merge.
+- **[mcp-memory-service #1486](https://github.com/doobidoo/mcp-memory-service/pull/1486) — merged.** Implemented assigned issue [#1484](https://github.com/doobidoo/mcp-memory-service/issues/1484), splitting search-handler stages and adding a complexity-budget regression.
+
+### Selected current upstream work
+
+- **[NanoCoder #1758](https://github.com/Nano-Collective/nanocoder/pull/1758) — open.** Isolates agent-evaluation runs from user preferences and unrelated provider/MCP configuration; 29 focused tests pass and all 17 reported hosted checks pass. Human review is still required.
+- **[smolagents #2921](https://github.com/huggingface/smolagents/pull/2921) — open.** Review identified repeated truth-testing of stateful chained-comparison results; the author added a regression and updated the fix. Soukyu approved the exact updated head after the focused 45-test class passed; maintainer review remains pending.
+- **[smolagents #2965](https://github.com/huggingface/smolagents/pull/2965) — open.** Review verified Python unary-plus semantics with focused regression tests; Soukyu approved the exact head after 2 focused tests passed. Maintainer review remains pending; no hosted checks are reported.
+
+**Status checked on 2026-10-14:** the three highlighted implementation PRs are merged; the three current examples remain open. The expanded audit below distinguishes open work, reviews, and merged contributions; an open PR is not presented as an accepted contribution.
+
+<details>
+<summary>Full contribution and review audit</summary>
+
+**Open-PR audit:** GitHub lifecycle, head, review decision, mergeability and reported checks were rechecked live across all 49 linked PRs on 2026-10-14. Detailed test and review notes retain their own evidence dates; hosted checks are not substituted for local test claims.
 
 | Project / PR | Focus | Live status |
 | --- | --- | --- |
@@ -106,6 +123,8 @@ In [LangChain #41085](https://github.com/langchain-ai/langchain/issues/41085), I
 **GitHub activity snapshot (GraphQL, rechecked 2026-10-14 02:49 ICT / 2026-10-13 19:49:45 UTC):** 416 contributions in the exact preceding 365 days (`2025-10-13T19:49:45Z`–`2026-10-13T19:49:45Z`), including 262 commits, 63 pull-request contributions, 27 reviews and 2 issues. These are GitHub activity counters, not a count of merged PRs or a skills score. **Current public-repository inventory, separately rechecked 2026-10-14 04:14 ICT:** 34 repositories — 15 non-fork repositories including this profile, plus 19 forks. GitHub does not expose historical repository inventory. The console activity counters match the dated activity snapshot; its repository tile reflects the separate current inventory. The activity/language artwork below is an older, separately dated snapshot.
 
 The console artwork above uses the activity counters from the 2026-10-14 02:49 ICT snapshot; its public-repository tile reflects the separate 34-repository inventory rechecked at 04:14 ICT. The heatmap and language panel remain a historical 2026-10-08 GraphQL snapshot and are intentionally not represented as current. Language shares use bytes from public owned repos, excluding forks and this profile, and are not proficiency scores.
+
+</details>
 
 ### [OpsDesk](https://github.com/ducanhnguyen223/opsdesk)
 
