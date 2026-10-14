@@ -61,7 +61,7 @@ I build LLM applications around business context, tools and human review.
 <details>
 <summary>Full contribution and review audit</summary>
 
-**Open-PR audit:** GitHub lifecycle, head, review decision, mergeability and reported checks were rechecked live across all 49 linked PRs on 2026-10-14. Detailed test and review notes retain their own evidence dates; hosted checks are not substituted for local test claims.
+**Open-PR audit:** GitHub lifecycle, head, review decision, mergeability and reported checks were rechecked live across all 50 linked PRs on 2026-10-14. Detailed test and review notes retain their own evidence dates; hosted checks are not substituted for local test claims.
 
 | Project / PR | Focus | Live status |
 | --- | --- | --- |
