@@ -44,7 +44,7 @@ I build LLM applications around business context, tools and human review.
 
 **Evidence tooling:** [GitHub Profile Audit](https://github.com/ducanhnguyen223/github-profile-audit) — read-only checks for public repository and profile-README consistency, with tests and CI.
 
-**Selected open upstream work, GitHub state fields (head, review decision, mergeability and reported checks) rechecked 2026-10-14 06:40 ICT / 2026-10-13 23:40 UTC, with NanoCoder #1758 refreshed 07:22 ICT.** Detailed test and review notes below retain their own evidence dates; open work is not presented as merged contributions, and hosted checks are not substituted for local test claims.
+**Selected open upstream work, GitHub state fields (lifecycle, head, review decision, mergeability and reported checks) rechecked live across all 49 linked PRs on 2026-10-14.** Detailed test and review notes below retain their own evidence dates; open work is not presented as merged contributions, and hosted checks are not substituted for local test claims.
 
 | Project / PR | Focus | Live status |
 | --- | --- | --- |
