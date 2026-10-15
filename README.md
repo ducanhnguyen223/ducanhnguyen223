@@ -1,9 +1,9 @@
 <picture>
   <source media="(max-width: 600px)" srcset="assets/soukyu-console-mobile.svg">
-  <img src="assets/soukyu-console.svg" width="100%" alt="Soukyu — AI Engineer. Current public-repository inventory rechecked 2026-10-15 07:16 ICT: 35 total (15 non-fork repositories including this profile, plus 20 forks). Activity snapshot at 2026-10-15 07:53 ICT: 266 commits, 74 pull-request contributions, 31 reviews, 2 issues and 438 total contributions in the exact preceding 365 days.">
+  <img src="assets/soukyu-console.svg" width="100%" alt="Soukyu — AI Engineer. Current public-repository inventory rechecked 2026-10-15 08:03 ICT: 35 total (15 non-fork repositories including this profile, plus 20 forks). Activity snapshot at 2026-10-15 08:03 ICT: 266 commits, 75 pull-request contributions, 31 reviews, 2 issues and 439 total contributions in the exact preceding 365 days.">
 </picture>
 
-<p align="center"><sub>Current public-repository inventory (live check 2026-10-15 07:16 ICT): 15 non-fork repositories (including this profile) + 20 forks = 35 total.</sub></p>
+<p align="center"><sub>Current public-repository inventory (live check 2026-10-15 08:03 ICT): 15 non-fork repositories (including this profile) + 20 forks = 35 total.</sub></p>
 
 <picture>
   <source media="(max-width: 600px)" srcset="assets/soukyu-activity-mobile.svg">
@@ -130,9 +130,9 @@ In [LangChain #41085](https://github.com/langchain-ai/langchain/issues/41085), I
 
 **Phase 1 review follow-up (2026-10-08 06:54 ICT):** At head `5464edc`, collaborator `filhocf`'s regression deterministically exercises the competing-writer SQLite lock/retry path; the final connection probe skips semantic dedup and reports its failure reason. I approved this head after review. At that snapshot the PR still awaited maintainer approval; `doobidoo` later merged it at `9858046`. Eighteen checks passed and external-link checking was skipped. I did not run the suite locally.
 
-**GitHub activity snapshot (GraphQL, rechecked 2026-10-15 07:53 ICT / 2026-10-15 00:53:41 UTC):** 438 contributions in the exact preceding 365 days (`2025-10-15T00:53:41Z`–`2026-10-15T00:53:41Z`), including 266 commits, 74 pull-request contributions, 31 reviews and 2 issues. These are GitHub activity counters, not a count of merged PRs or a skills score. **Current public-repository inventory, rechecked 2026-10-15 07:16 ICT:** 35 repositories — 15 non-fork repositories including this profile, plus 20 forks. GitHub does not expose historical repository inventory. The console activity counters match the dated activity snapshot; its repository tile reflects the separate current inventory. The activity/language artwork below is an older, separately dated snapshot.
+**GitHub activity snapshot (GraphQL, rechecked 2026-10-15 08:03 ICT / 2026-10-15 01:03:37 UTC):** 439 contributions in the exact preceding 365 days (`2025-10-15T01:03:37Z`–`2026-10-15T01:03:37Z`), including 266 commits, 75 pull-request contributions, 31 reviews and 2 issues. These are GitHub activity counters, not a count of merged PRs or a skills score. **Current public-repository inventory, rechecked 2026-10-15 08:03 ICT:** 35 repositories — 15 non-fork repositories including this profile, plus 20 forks. GitHub does not expose historical repository inventory. The console activity counters match the dated activity snapshot; its repository tile reflects the separate current inventory. The activity/language artwork below is an older, separately dated snapshot.
 
-The console artwork above uses the activity counters from the 2026-10-15 07:53 ICT snapshot; its public-repository tile reflects the separate 35-repository inventory rechecked at 07:16 ICT. The heatmap and language panel remain a historical 2026-10-08 GraphQL snapshot and are intentionally not represented as current. Language shares use bytes from public owned repos, excluding forks and this profile, and are not proficiency scores.
+The console artwork above uses the activity counters from the 2026-10-15 08:03 ICT snapshot; its public-repository tile reflects the separate 35-repository inventory rechecked at 08:03 ICT. The heatmap and language panel remain a historical 2026-10-08 GraphQL snapshot and are intentionally not represented as current. Language shares use bytes from public owned repos, excluding forks and this profile, and are not proficiency scores.
 
 </details>
 
