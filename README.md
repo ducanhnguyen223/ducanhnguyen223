@@ -1,9 +1,9 @@
 <picture>
   <source media="(max-width: 600px)" srcset="assets/soukyu-console-mobile.svg">
-  <img src="assets/soukyu-console.svg" width="100%" alt="Soukyu — AI Engineer. Current public-repository inventory rechecked 2026-10-24 07:14 ICT: 38 total (15 non-fork repositories including this profile, plus 23 forks). Activity snapshot at 2026-10-24 07:14 ICT / 2026-10-24 00:14 UTC: 301 commits, 109 pull-request contributions, 43 reviews, 2 issues and 526 total contributions in the exact rolling 365-day UTC window from 2025-10-24 00:14 UTC through 2026-10-24 00:14 UTC.">
+  <img src="assets/soukyu-console.svg" width="100%" alt="Soukyu — AI Engineer. Current public-repository inventory rechecked 2026-10-24 09:28 ICT: 38 total (15 non-fork repositories including this profile, plus 23 forks). Activity snapshot at 2026-10-24 09:28 ICT / 2026-10-24 02:28 UTC: 300 commits, 108 pull-request contributions, 43 reviews, 2 issues and 524 total contributions across the 365 complete UTC calendar dates from 2025-10-24 through 2026-10-23.">
 </picture>
 
-<p align="center"><sub>Current public-repository inventory (live check 2026-10-24 07:14 ICT): 15 non-fork repositories (including this profile) + 23 forks = 38 total.</sub></p>
+<p align="center"><sub>Current public-repository inventory (live check 2026-10-24 09:28 ICT): 15 non-fork repositories (including this profile) + 23 forks = 38 total.</sub></p>
 
 <picture>
   <source media="(max-width: 600px)" srcset="assets/soukyu-activity-mobile.svg">
@@ -89,7 +89,7 @@ The selected section labels each item by its current upstream lifecycle status; 
 <details>
 <summary>Full contribution and review audit</summary>
 
-**PR-status audit (GitHub API rechecked 2026-10-24 06:17 ICT):** The README records **81 unique PR links**; every explicitly labeled PR lifecycle claim matched GitHub, with **zero stale claims**. This snapshot includes mcp-memory-service #1663 (`441e0ee`) as merged alongside #1561 (`df3af0d`) and #1563 (`f572cee`). Issue #1517 was closed after #1563 merged; Open Source Radar issues #139 and #140 closed after #175 and #169 merged. Clinical Deep Research #131, #132, #135, #136, and #140 are merged. #132's local test/type-check results are distinguished from hosted CI. Hosted checks are not substituted for local test claims.
+**PR-status audit (GitHub API rechecked 2026-10-24 10:00 ICT):** The README records **81 unique PR links**; every explicitly labeled PR lifecycle claim matched GitHub, with **zero stale claims**. This snapshot includes mcp-memory-service #1663 (`441e0ee`) as merged alongside #1561 (`df3af0d`) and #1563 (`f572cee`). Issue #1517 was closed after #1563 merged; Open Source Radar issues #139 and #140 closed after #175 and #169 merged. Clinical Deep Research #131, #132, #135, #136, and #140 are merged. #132's local test/type-check results are distinguished from hosted CI. Hosted checks are not substituted for local test claims.
 
 | Project / PR | Focus | Live status |
 | --- | --- | --- |
@@ -176,9 +176,9 @@ In [LangChain #41085](https://github.com/langchain-ai/langchain/issues/41085), I
 
 **Phase 1 review follow-up (2026-10-08 06:54 ICT):** At head `5464edc`, collaborator `filhocf`'s regression deterministically exercises the competing-writer SQLite lock/retry path; the final connection probe skips semantic dedup and reports its failure reason. I approved this head after review. At that snapshot the PR still awaited maintainer approval; `doobidoo` later merged it at `9858046`. Eighteen checks passed and external-link checking was skipped. I did not run the suite locally.
 
-**GitHub contribution snapshot (GraphQL, rechecked 2026-10-24 07:14 ICT / 2026-10-24 00:14 UTC):** 38 owned public repositories total: 15 non-fork repositories including this profile, plus 23 forks; 526 contributions in the exact preceding 365 days, including 301 commits, 109 pull-request contributions, 43 reviews and 2 issues. The exact rolling UTC window is `2025-10-24T00:14:00Z`–`2026-10-24T00:14:00Z`. These are GitHub activity counters, not a count of merged PRs or a skills score. GitHub does not expose historical repository inventory. The console artwork uses the same snapshot and repository inventory. The activity/language artwork below is an older, separately dated snapshot.
+**GitHub contribution snapshot (GraphQL, rechecked 2026-10-24 09:28 ICT):** 38 owned public repositories total: 15 non-fork repositories including this profile, plus 23 forks; 524 contributions across the 365 complete UTC calendar dates from `2025-10-24` through `2026-10-23`, including 300 commits, 108 pull-request contributions, 43 reviews and 2 issues. These are GitHub activity counters, not a count of merged PRs or a skills score. GitHub does not expose historical repository inventory. The console artwork uses the same snapshot and repository inventory. The activity/language artwork below is an older, separately dated snapshot.
 
-The console artwork above uses the activity counters from the 2026-10-24 07:14 ICT snapshot (exact rolling UTC window: 2025-10-24 00:14–2026-10-24 00:14); its public-repository tile reflects the 38-repository inventory rechecked at 07:14 ICT on 2026-10-24. The heatmap and language panel remain a historical 2026-10-08 GraphQL snapshot and are intentionally not represented as current. Language shares use bytes from public owned repos, excluding forks and this profile, and are not proficiency scores.
+The console artwork above uses the activity counters from the 2026-10-24 09:28 ICT snapshot across the 365 complete UTC dates 2025-10-24–2026-10-23; its public-repository tile reflects the 38-repository inventory rechecked at 09:28 ICT on 2026-10-24. The heatmap and language panel remain a historical 2026-10-08 GraphQL snapshot and are intentionally not represented as current. Language shares use bytes from public owned repos, excluding forks and this profile, and are not proficiency scores.
 
 </details>
 
