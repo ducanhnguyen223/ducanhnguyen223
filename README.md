@@ -1,9 +1,11 @@
 <picture>
   <source media="(max-width: 600px)" srcset="assets/soukyu-console-mobile.svg">
-  <img src="assets/soukyu-console.svg" width="100%" alt="Soukyu — AI Engineer. Current public-repository inventory rechecked 2026-10-24 09:28 ICT: 38 total (15 non-fork repositories including this profile, plus 23 forks). Activity snapshot at 2026-10-24 09:28 ICT / 2026-10-24 02:28 UTC: 300 commits, 108 pull-request contributions, 43 reviews, 2 issues and 524 total contributions across the 365 complete UTC calendar dates from 2025-10-24 through 2026-10-23.">
+  <img src="assets/soukyu-console.svg" width="100%" alt="Soukyu — AI Engineer. Current public-repository inventory rechecked 2026-10-28 01:30 ICT: 39 total (15 non-fork repositories including this profile, plus 24 forks). GraphQL activity snapshot rechecked 2026-10-28 01:30 ICT: 531 total contributions (34 from restricted repositories), including 302 commits, 111 pull-request contributions, 43 reviews and 2 issues, across the 365 complete UTC calendar dates from 2025-10-27 through 2026-10-26.">
 </picture>
 
-<p align="center"><sub>Current public-repository inventory (live check 2026-10-28 00:36 ICT): 15 non-fork repositories (including this profile) + 24 forks = 39 total.</sub></p>
+<p align="center"><sub>Current public-repository inventory (live check 2026-10-28 01:30 ICT): 15 non-fork repositories (including this profile) + 24 forks = 39 total.</sub></p>
+
+**GitHub contribution snapshot (GraphQL, rechecked 2026-10-28 01:30 ICT):** 39 owned public repositories total: 15 non-fork public repositories including this profile, plus 24 forks; 531 total contributions across the 365 complete UTC calendar dates from `2025-10-27` through `2026-10-26` (34 from restricted repositories), including 302 commits, 111 pull-request contributions, 43 reviews and 2 issues.
 
 <picture>
   <source media="(max-width: 600px)" srcset="assets/soukyu-activity-mobile.svg">
@@ -182,9 +184,7 @@ In [LangChain #41085](https://github.com/langchain-ai/langchain/issues/41085), I
 
 **Phase 1 review follow-up (2026-10-08 06:54 ICT):** At head `5464edc`, collaborator `filhocf`'s regression deterministically exercises the competing-writer SQLite lock/retry path; the final connection probe skips semantic dedup and reports its failure reason. I approved this head after review. At that snapshot the PR still awaited maintainer approval; `doobidoo` later merged it at `9858046`. Eighteen checks passed and external-link checking was skipped. I did not run the suite locally.
 
-**GitHub contribution snapshot (GraphQL, rechecked 2026-10-28 00:36 ICT):** 39 owned public repositories total: 15 non-fork public repositories including this profile, plus 24 forks; 546 total contributions across the 365 complete UTC calendar dates from `2025-10-27` through `2026-10-26` (41 from restricted repositories), including 302 commits, 118 pull-request contributions, 43 reviews and 2 issues. These are GitHub activity counters, not a count of merged PRs or a skills score. GitHub does not expose historical repository inventory. The console artwork above remains a separately dated 2026-10-24 snapshot with its earlier count of 524; the activity/language artwork below is an older, separately dated snapshot.
-
-The console artwork above uses the activity counters from the 2026-10-24 09:28 ICT snapshot across the 365 complete UTC dates 2025-10-24–2026-10-23; its public-repository tile reflects the 38-repository inventory rechecked at 09:28 ICT on 2026-10-24. The heatmap and language panel remain a historical 2026-10-08 GraphQL snapshot and are intentionally not represented as current. Language shares use bytes from public owned repos, excluding forks and this profile, and are not proficiency scores.
+**GitHub contribution snapshot (GraphQL, rechecked 2026-10-28 01:30 ICT):** 39 owned public repositories total: 15 non-fork public repositories including this profile, plus 24 forks; 531 total contributions across the 365 complete UTC calendar dates from `2025-10-27` through `2026-10-26` (34 from restricted repositories), including 302 commits, 111 pull-request contributions, 43 reviews and 2 issues. These are GitHub activity counters, not a count of merged PRs or a skills score. GitHub does not expose historical repository inventory. The console artwork above reports this same snapshot. The heatmap and language panel below remain a historical 2026-10-08 snapshot, showing language byte shares from public owned repositories excluding forks and this profile, not proficiency.
 
 </details>
 
