@@ -185,7 +185,7 @@ In [LangChain #41085](https://github.com/langchain-ai/langchain/issues/41085), I
 
 **Phase 1 review follow-up (2026-10-08 06:54 ICT):** At head `5464edc`, collaborator `filhocf`'s regression deterministically exercises the competing-writer SQLite lock/retry path; the final connection probe skips semantic dedup and reports its failure reason. I approved this head after review. At that snapshot the PR still awaited maintainer approval; `doobidoo` later merged it at `9858046`. Eighteen checks passed and external-link checking was skipped. I did not run the suite locally.
 
-**GitHub contribution snapshot (GraphQL, rechecked 2026-10-29 04:43 ICT):** 39 owned public repositories total: 15 non-fork public repositories including this profile, plus 24 forks; 546 total contributions across the 365 complete UTC calendar dates from `2025-10-28` through `2026-10-27` (41 from restricted repositories), including 302 commits, 118 pull-request contributions, 43 reviews and 2 issues. These are GitHub activity counters, not a count of merged PRs or a skills score. GitHub does not expose historical repository inventory. The console artwork above reports this same snapshot. The heatmap and language panel below remain a historical 2026-10-08 snapshot, showing language byte shares from public owned repositories excluding forks and this profile, not proficiency.
+**Snapshot note:** The heatmap and language panel below remain a historical 2026-10-08 snapshot, showing language byte shares from public owned repositories excluding forks and this profile, not proficiency. The current contribution snapshot is reported at the top of this README.
 
 </details>
 
