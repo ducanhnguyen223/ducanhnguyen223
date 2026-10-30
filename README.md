@@ -1,11 +1,11 @@
 <picture>
   <source media="(max-width: 600px)" srcset="assets/soukyu-console-mobile.svg">
-  <img src="assets/soukyu-console.svg" width="100%" alt="Soukyu — AI Engineer. Current public-repository inventory rechecked 2026-10-30 13:13 ICT: 42 total (15 non-fork repositories including this profile, plus 27 forks). GraphQL activity snapshot rechecked 2026-10-30 13:13 ICT, window end 2026-10-30 06:13 UTC: 564 contributions (41 from restricted repositories) in the exact preceding 365 days, including 302 commits, 125 pull-request contributions, 51 reviews and 2 issues.">
+  <img src="assets/soukyu-console.svg" width="100%" alt="Soukyu — AI Engineer. Current public-repository inventory rechecked 2026-10-30 16:36 ICT: 47 total (16 non-fork repositories including this profile, plus 31 forks). GraphQL activity snapshot rechecked 2026-10-30 16:36 ICT, window end 2026-10-30 09:35:53 UTC: 573 contributions (41 from restricted repositories) in the exact preceding 365 days, including 302 commits, 130 pull-request contributions, 51 reviews and 2 issues.">
 </picture>
 
-<p align="center"><sub>Current public-repository inventory (live check 2026-10-30 13:13 ICT): 15 non-fork repositories (including this profile) + 27 forks = 42 total.</sub></p>
+<p align="center"><sub>Current public-repository inventory (live check 2026-10-30 16:36 ICT): 16 non-fork repositories (including this profile) + 31 forks = 47 total.</sub></p>
 
-**GitHub contribution snapshot (GraphQL, rechecked 2026-10-30 13:13 ICT / window end 2026-10-30 06:13 UTC):** 42 owned public repositories total: 15 non-fork public repositories including this profile, plus 27 forks; 564 contributions in the exact preceding 365 days, including 302 commits, 125 pull-request contributions, 51 reviews and 2 issues.
+**GitHub contribution snapshot (GraphQL, rechecked 2026-10-30 16:36 ICT / window end 2026-10-30 09:35:53 UTC):** 47 owned public repositories total: 16 non-fork public repositories including this profile, plus 31 forks; 573 contributions (41 from restricted repositories) in the exact preceding 365 days from `2025-10-30 09:35:53 UTC` through `2026-10-30 09:35:53 UTC`, including 302 commits, 130 pull-request contributions, 51 reviews and 2 issues.
 
 <picture>
   <source media="(max-width: 600px)" srcset="assets/soukyu-activity-mobile.svg">
