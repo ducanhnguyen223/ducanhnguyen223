@@ -1,11 +1,11 @@
 <picture>
   <source media="(max-width: 600px)" srcset="assets/soukyu-console-mobile.svg">
-  <img src="assets/soukyu-console.svg" width="100%" alt="Soukyu — AI Engineer. Current public-repository inventory rechecked 2026-10-30 02:28 ICT: 39 total (15 non-fork repositories including this profile, plus 24 forks). GraphQL activity snapshot rechecked 2026-10-30 02:28 ICT: 548 total contributions (41 from restricted repositories), including 302 commits, 120 pull-request contributions, 43 reviews and 2 issues, across the rolling 365-day UTC interval from 2025-10-29 19:28Z through 2026-10-29 19:28Z.">
+  <img src="assets/soukyu-console.svg" width="100%" alt="Soukyu — AI Engineer. Current public-repository inventory rechecked 2026-10-30 11:55 ICT: 41 total (15 non-fork repositories including this profile, plus 26 forks). GraphQL activity snapshot rechecked 2026-10-30 11:55 ICT: 562 total contributions (41 from restricted repositories), including 302 commits, 124 pull-request contributions, 51 reviews and 2 issues, across the rolling 365-day UTC interval from 2025-10-30 04:55:51Z through 2026-10-30 04:55:51Z.">
 </picture>
 
-<p align="center"><sub>Current public-repository inventory (live check 2026-10-30 02:28 ICT): 15 non-fork repositories (including this profile) + 24 forks = 39 total.</sub></p>
+<p align="center"><sub>Current public-repository inventory (live check 2026-10-30 11:55 ICT): 15 non-fork repositories (including this profile) + 26 forks = 41 total.</sub></p>
 
-**GitHub contribution snapshot (GraphQL, rechecked 2026-10-30 02:28 ICT):** 39 owned public repositories total: 15 non-fork public repositories including this profile, plus 24 forks; 548 total contributions across the rolling 365-day UTC interval from `2025-10-29 19:28Z` through `2026-10-29 19:28Z` (41 from restricted repositories), including 302 commits, 120 pull-request contributions, 43 reviews and 2 issues.
+**GitHub contribution snapshot (GraphQL, rechecked 2026-10-30 11:55 ICT):** 41 owned public repositories total: 15 non-fork public repositories including this profile, plus 26 forks; 562 total contributions across the rolling 365-day UTC interval from `2025-10-30 04:55:51Z` through `2026-10-30 04:55:51Z` (41 from restricted repositories), including 302 commits, 124 pull-request contributions, 51 reviews and 2 issues.
 
 <picture>
   <source media="(max-width: 600px)" srcset="assets/soukyu-activity-mobile.svg">
