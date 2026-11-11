@@ -1,11 +1,11 @@
 <picture>
   <source media="(max-width: 600px)" srcset="assets/soukyu-console-mobile.svg">
-  <img src="assets/soukyu-console.svg" width="100%" alt="Soukyu — AI Engineer. User-owned public-repository inventory rechecked 2026-11-11 23:55 ICT: 52 total (16 non-fork repositories including this profile, plus 36 forks). GraphQL activity snapshot rechecked 2026-11-11 23:55 ICT, UTC window 2025-11-11T16:55:06Z–2026-11-11T16:55:06Z: 626 contributions (41 from restricted repositories) in the exact preceding 365 days, including 316 commits, 162 pull-request contributions, 52 reviews and 2 issues.">
+  <img src="assets/soukyu-console.svg" width="100%" alt="Soukyu — AI Engineer. User-owned public-repository inventory rechecked 2026-11-12 00:00 ICT: 52 total (16 non-fork repositories including this profile, plus 36 forks). GraphQL activity snapshot rechecked 2026-11-12 00:00 ICT, UTC window 2025-11-11T17:00:05Z–2026-11-11T17:00:05Z: 626 contributions (41 from restricted repositories) in the exact preceding 365 days, including 316 commits, 162 pull-request contributions, 52 reviews and 2 issues.">
 </picture>
 
-<p align="center"><sub>User-owned public-repository inventory (live check 2026-11-11 23:55 ICT): 16 non-fork repositories (including this profile) + 36 forks = 52 total.</sub></p>
+<p align="center"><sub>User-owned public-repository inventory (live check 2026-11-12 00:00 ICT): 16 non-fork repositories (including this profile) + 36 forks = 52 total.</sub></p>
 
-**GitHub contribution snapshot (GraphQL, rechecked 2026-11-11 23:55 ICT / UTC window 2025-11-11T16:55:06Z–2026-11-11T16:55:06Z):** 52 owned public repositories total: 16 non-fork public repositories including this profile, plus 36 forks; 626 contributions in the exact preceding 365 days, including 316 commits, 162 pull-request contributions, 52 reviews and 2 issues. 41 contributions are from restricted repositories.
+**GitHub contribution snapshot (GraphQL, rechecked 2026-11-12 00:00 ICT / UTC window 2025-11-11T17:00:05Z–2026-11-11T17:00:05Z):** 52 owned public repositories total: 16 non-fork public repositories including this profile, plus 36 forks; 626 contributions in the exact preceding 365 days, including 316 commits, 162 pull-request contributions, 52 reviews and 2 issues. 41 contributions are from restricted repositories.
 
 <picture>
   <source media="(max-width: 600px)" srcset="assets/soukyu-activity-mobile.svg">
@@ -48,7 +48,7 @@ I build LLM applications around business context, tools and human review.
 
 ### Selected upstream contributions
 
-**Verified merged PRs (live search rechecked 2026-11-11 23:55 ICT): 43 across nine selected upstream projects** — 15 in [mcp-memory-service](https://github.com/doobidoo/mcp-memory-service), 9 in [Clinical Deep Research](https://github.com/BlueRingsLabs/Clinical-Deep-Research_CDR), 6 in [NanoCoder](https://github.com/Nano-Collective/nanocoder), 3 in [Shoal](https://github.com/Dangalcan/shoal), 5 in [Open Source Radar](https://github.com/TanbirRamim/open-source-radar), 1 in [W&B RAI Toolkit](https://github.com/wandb/rai-toolkit), 1 in [tox](https://github.com/tox-dev/tox), 1 in [REA](https://github.com/morluto/rea), and 2 in [Rasbur](https://github.com/omanshchoudhary/rasbur). Counts are authored PRs returned as merged by GitHub for the named projects; they exclude review-only contributions and other repositories.
+**Verified merged PRs (live search rechecked 2026-11-12 00:00 ICT): 43 across nine selected upstream projects** — 15 in [mcp-memory-service](https://github.com/doobidoo/mcp-memory-service), 9 in [Clinical Deep Research](https://github.com/BlueRingsLabs/Clinical-Deep-Research_CDR), 6 in [NanoCoder](https://github.com/Nano-Collective/nanocoder), 3 in [Shoal](https://github.com/Dangalcan/shoal), 5 in [Open Source Radar](https://github.com/TanbirRamim/open-source-radar), 1 in [W&B RAI Toolkit](https://github.com/wandb/rai-toolkit), 1 in [tox](https://github.com/tox-dev/tox), 1 in [REA](https://github.com/morluto/rea), and 2 in [Rasbur](https://github.com/omanshchoudhary/rasbur). Counts are authored PRs returned as merged by GitHub for the named projects; they exclude review-only contributions and other repositories.
 
 **External selection:** The live [XERJ Corpus Hub contributor page](https://hub.xerj.org/contributors/ducanhnguyen223) lists merged [mcp-memory-service #1534](https://github.com/doobidoo/mcp-memory-service/pull/1534) as a worked reference: one corpus and selected commit, 10 files / 1,580 lines, under the repository's Apache-2.0 licence. XERJ marks the corpus live and the licence cleared; inclusion is with the author's permission.
 
